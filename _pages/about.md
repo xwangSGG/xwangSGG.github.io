@@ -38,6 +38,8 @@ My research interests focus on Learning-based photogrammetry and its application
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2015.10* National Scholarship (Top 1%). 
+- *2020.03* ASPRS ESRI Awards for Best Scientific Paper in GIS First Place.
+- *2022.07* 湖北省“BR”计划.
+- *2022.10* 武汉市“英才”计划.
 
