@@ -13,7 +13,7 @@ redirect_from:
 I am now employed as a Distinguished Associate Researcher at the School of Geodesy and Geomatics, WuHan University (武汉大学测绘学院). I obtained my Doctor degree of Engineering from [Insitute of Photogrammetry and GeoInformation](https://www.ipi.uni-hannover.de/de/), Leibniz University Hannover, supervised and mentored by [Prof. Christian Heipke](https://www.ipi.uni-hannover.de/de/heipke). I was a research intern in Vexcel Imaging GmbH, Graz, Austria, working with Dr. Micheal Gruber. I obtained my Master's degree on Surveying Engneering from Wuhan University, supervised by [Prof. Zongqian Zhan](http://jszy.whu.edu.cn/zhanzongqian/zh_CN/index.htm).
 My research interests focus on Learning-based photogrammetry and its application, 3D reconstruction, and SLAM.
 
-I am looking for highly self-motivated and talented Bachelor, Master and PhD students (co-supervised with Prof. Zongqian Zhan). Feel free to contact me via email If you're interested in collaborating.
+**I am looking for highly self-motivated and talented Bachelor, Master and PhD students (co-supervised with Prof. Zongqian Zhan). Feel free to contact me via email If you're interested in collaborating.**
 
 
 # 🔥 News
