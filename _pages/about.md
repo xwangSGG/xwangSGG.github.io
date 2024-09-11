@@ -8,18 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am now employed as a Distinguished Associate Researcher at the School of Geodesy and Geomatics, WuHan University (武汉大学测绘学院). I obtained my Doctor degree of Engineering from [Insitute of Photogrammetry and GeoInformation](https://www.ipi.uni-hannover.de/de/), Leibniz University Hannover, supervised and mentored by [Prof. Christian Heipke](https://www.ipi.uni-hannover.de/de/heipke). I was a research intern in Vexcel Imaging GmbH, Graz, Austria, working with Dr. Micheal Gruber. I obtained my Master's degree on Surveying Engneering from Wuhan University, supervised by [Prof. Zongqian Zhan](http://jszy.whu.edu.cn/zhanzongqian/zh_CN/index.htm).
+My research interests focus on Learning-based photogrammetry and its application, 3D reconstruction, and SLAM.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I am looking for highly self-motivated and talented Bachelor, Master and PhD students (co-supervised with Prof. Zongqian Zhan). Feel free to contact me via email If you're interested in collaborating.
 
 
 # 🔥 News
