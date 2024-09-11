@@ -6,9 +6,10 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Xin Wang"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "RayeRen/acad-homepage.github.io"
+locale                   : "zh-CN"
+title                    : "Dr.-Ing. Xin Wang (王鑫)"
+description              : "Distinguished Associate Researcher at Wuhan University. Working on Photogrammetry, Remote Sesning and Computer Vision."
+repository               : "xwangSGG/wx7531774.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -27,9 +28,9 @@ author:
   location         : "Wuhan, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?user=pK2IPtsAAAAJ"
+  email            : "xwang@sgg.whu.edu.cn"
+  researchgate     : "https://www.researchgate.net/profile/Xin-Wang-305"
   uri              :
   bitbucket        :
   codepen          :
@@ -37,7 +38,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "xwangSGG"
   google_plus      :
   keybase          :
   instagram        :
@@ -45,7 +46,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-5132-4465"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
