@@ -18,7 +18,7 @@ My research interests focus on Learning-based photogrammetry and its application
 
 # 🔥 News
 - *2024.08*: &nbsp;🎉🎉 One Paper is accepted by PFG-Journal Photogrammetry, Remote Sensing and GeoInformation Science. 
-- *2024.08*: &nbsp;🎉🎉 One Paper is accepted by ECCVW 2024. 
+- *2024.08*: &nbsp;🎉🎉 One Paper is accepted by ECCV 2024, workshop of 50SfM. 
 - *2024.05*: &nbsp;🎉🎉 Five Papaers are accepted by ISPRS TC I Mid-term Symposium, three of them are Oral presentation and granted by ISPRS TIF. 
 
 # 📝 Publications 
