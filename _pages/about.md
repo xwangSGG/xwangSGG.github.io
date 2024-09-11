@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<span class='anchor' id='#about-me'></span>
+<span class='anchor' id='about-me'></span>
 
 I am now employed as a Distinguished Associate Researcher at the School of Geodesy and Geomatics, WuHan University (武汉大学测绘学院). I obtained my Doctor degree of Engineering from [Insitute of Photogrammetry and GeoInformation](https://www.ipi.uni-hannover.de/de/), Leibniz University Hannover, supervised and mentored by [Prof. Christian Heipke](https://www.ipi.uni-hannover.de/de/heipke). I was a research intern in Vexcel Imaging GmbH, Graz, Austria, working with Dr. Micheal Gruber. I obtained my Master's degree on Surveying Engneering from Wuhan University, supervised by [Prof. Zongqian Zhan](http://jszy.whu.edu.cn/zhanzongqian/zh_CN/index.htm).
 My research interests focus on Learning-based photogrammetry and its application, 3D reconstruction, and SLAM.
@@ -41,13 +41,3 @@ My research interests focus on Learning-based photogrammetry and its application
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
