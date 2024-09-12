@@ -160,9 +160,13 @@ BEDOI: BENCHMARKS FOR DETERMINING OVERLAPPING IMAGES WITH PHOTOGRAMMETRIC INFORM
 [[ISPRS Geospatial Week 2023,**Oral**](https://isprs-archives.copernicus.org/articles/XLVIII-1-W2-2023/1685/2023/isprs-archives-XLVIII-1-W2-2023-1685-2023.pdf)]
 
 H. Zhan, Y.F. Yu, Y.W. Xu, Q.B. Hou, R., Xia, **X. Wang**, Y. Feng, Z.Q. Zhan, M.L. Li, M. Gruber, R. Hänsch, C. Heipke
+
 [**Code**](https://github.com/WHUHaoZhan/BeDOI) 
 </div>
 </div>
+
+## Paper before 2022
+  - [Structural line feature selection for improving indoor visual slam](https://isprs-archives.copernicus.org/articles/XLIII-B4-2022/327/2022/isprs-archives-XLIII-B4-2022-327-2022.pdf), Rui Xia, Ke Jiang, **Xin Wang**, Zongqian Zhan, **ISPRS Congress 2022**
 
 # 🎖 Honors and Awards
 - *2015.10* National Scholarship (Top 1%). 
