@@ -1,16 +1,3 @@
-<link rel="stylesheet" href="./static/css/bulma.min.css">
-  <!-- <link rel="stylesheet"
-        href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css"> -->
-  <link rel="stylesheet" href="./static/css/index.css">
-  <link rel="stylesheet" href="./static/css/comparison.css">
-  <!-- <link rel="icon" href="./static/images/favicon.svg"> -->
-
-  <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script> -->
-  <script defer src="./static/js/fontawesome.all.min.js"></script>
-  <script src="./static/js/bulma-carousel.min.js"></script>
-  <script src="./static/js/bulma-slider.min.js"></script>
-  <script src="./static/js/index.js"></script>
-
 ---
 permalink: /
 title: ""
@@ -20,6 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+<link rel="stylesheet" href="./static/css/bulma.min.css">
+  
+  <link rel="stylesheet" href="./static/css/index.css">
+  <link rel="stylesheet" href="./static/css/comparison.css">
 
 <span class='anchor' id='about-me'></span>
 
