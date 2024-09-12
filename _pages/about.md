@@ -21,11 +21,13 @@ My research interests focus on Learning-based photogrammetry and its application
 **I am looking for highly self-motivated and talented Bachelor, Master and PhD students (co-supervised with Prof. Zongqian Zhan). Feel free to contact me via email If you're interested in collaborating.**
 
 
+
 # 🔥 **News**
 - *2024.08*: &nbsp;🎉🎉 One Paper is accepted by PFG-Journal Photogrammetry, Remote Sensing and GeoInformation Science. 
 - *2024.08*: &nbsp;🎉🎉 One Paper is accepted by ECCV 2024, workshop of 50SfM.
 - *2024.07*: &nbsp;🎉🎉 A special Issue "Sino-German P & RS cooperation: Applications, Methods, Reviews" on the PFG-Journal is approved [Link](https://drive.google.com/file/d/1VjIsDuMMMnyVie0M6VdPvnKZqtkitHkC/view?usp=sharing). 
 - *2024.05*: &nbsp;🎉🎉 Five Papaers are accepted by ISPRS TC I Mid-term Symposium, three of them are Oral presentation and granted by ISPRS TIF. 
+
 
 # 📝 **Publications** 
 
@@ -181,14 +183,16 @@ H. Zhan, Y.F. Yu, Y.W. Xu, Q.B. Hou, R., Xia, **X. Wang**, Y. Feng, Z.Q. Zhan, M
   - [Robustifying relative orientations with respect to repetitive structures and very short baselines for global SfM](http://openaccess.thecvf.com/content_CVPRW_2019/papers/PCV/Wang_Robustifying_Relative_Orientations_With_Respect_to_Repetitive_Structures_and_Very_CVPRW_2019_paper.pdf), **Xin Wang**, Teng Xiao, Michael Gruber, Christian Heipke, **the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops, 2019**
   - [Structure from motion for ordered and unordered image sets based on random kd forests and global pose estimation](https://www.sciencedirect.com/science/article/pii/S0924271618303058), **Xin Wang**,Franz Rottensteiner, Christian Heipke, **ISPRS Jouranl of Photogrammetry and Remote Sensing, 2019**
 
-# 🎖 Honors and Awards
+
+# 🎖 **Honors and Awards**
 - *2015.10* National Scholarship (Top 1%). 
 - *2020.03* ASPRS ESRI Awards for Best Scientific Paper in GIS First Place.
 - *2022.07* 湖北省“BR”计划.
 - *2022.10* 武汉市“英才”计划.
 
-  
-# 📖 Academic Services
+
+
+# 📖 **Academic Services**
 ## Conference Reviewers
 - European Conference on Computer Vision (ECCV), 2024
 - European Conference on Computer Vision Workshop (ECCVW), 2024
@@ -210,7 +214,8 @@ H. Zhan, Y.F. Yu, Y.W. Xu, Q.B. Hou, R., Xia, **X. Wang**, Y. Feng, Z.Q. Zhan, M
 ## Editor Services
 - Special issue 'Sino-German P & RS cooperation: Applications, Methods, Reviews' on the PFG-Journal (IF 2.1)
 
-# 💻 Demos
+
+# 💻 **Demos**
 
 <section class="section">
     <div class="container is-max-desktop">
