@@ -214,7 +214,7 @@ H. Zhan, Y.F. Yu, Y.W. Xu, Q.B. Hou, R., Xia, **X. Wang**, Y. Feng, Z.Q. Zhan, M
 
 <section class="section">
     <div class="container is-max-desktop">
-      <h2 class="title is-3" style="text-align: center;">Comparisons</h2>
+      <h2 class="title is-3" style="text-align: center;">GOF vs MGFs</h2>
       <!-- Dortmund Comparisons -->
       <div class="content">
         <h2 class="title is-4">Dortmund</h2>
@@ -262,4 +262,15 @@ H. Zhan, Y.F. Yu, Y.W. Xu, Q.B. Hou, R., Xia, **X. Wang**, Y. Feng, Z.Q. Zhan, M
   <script src="./static/js/comparison.js"></script>
   </div>
 </section>
+
+<div class="Div">
+        <div class="MainText_Title"><section id="Video">SfM on-the-fly with two agents</section></div>
+    </div>
+    
+ <div class="Video">
+        <video controls>
+            <source src="images/On_the_Fly SfMv2_small.mp4" type="video/mp4">
+        </video>
+</div>
+
    
