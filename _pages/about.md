@@ -244,17 +244,6 @@ H. Zhan, Y.F. Yu, Y.W. Xu, Q.B. Hou, R., Xia, **X. Wang**, Y. Feng, Z.Q. Zhan, M
             </object>
       </div>
         
-      <br/>
-      <div class="image-container">
-            <img style="width: 90%;" src="images/dortumud/table_surface.png"/>
-            </object>
-      </div>
-
-      <br/>
-      <div class="image-container">
-            <img style="width: 90%;" src="images/dortumud/table_render.png"/>
-            </object>
-      </div>
 
       <!--  Zeche -->
       <br/>
@@ -280,18 +269,6 @@ H. Zhan, Y.F. Yu, Y.W. Xu, Q.B. Hou, R., Xia, **X. Wang**, Y. Feng, Z.Q. Zhan, M
       <div class="image-container">
         <h2 class="title is-4">More Results</h2>
             <img style="width: 90%;" src="./images/zeche/all.jpg"/>
-            </object>
-      </div>
-
-      <br/>
-      <div class="image-container">
-        <img style="width: 90%;" src="./images/zeche/table_surface.png"/>
-            </object>
-      </div>
-
-      <br/>
-      <div class="image-container">
-            <img style="width: 90%;" src="./images/zeche/table_render.png"/>
             </object>
       </div>
 
