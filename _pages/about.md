@@ -27,7 +27,7 @@ My research interests focus on Learning-based photogrammetry and its application
 <div class='paper-box'><div class='paper-box-image'><img src='images/MGFS.png' alt="sym" width="50%"></div>
 <div class='paper-box-text' markdown="1">
 
-[MGFs: Masked Gaussian Fields for Meshing Building based on Multi-View Images](https://arxiv.org/pdf/2408.03060)
+MGFs: Masked Gaussian Fields for Meshing Building based on Multi-View Images [Arxiv](https://arxiv.org/pdf/2408.03060)
 
 Tengfei Wang, Zongqian Zhan, Rui Xia, Linxia Ji, **Xin Wang**
 
@@ -38,7 +38,7 @@ Tengfei Wang, Zongqian Zhan, Rui Xia, Linxia Ji, **Xin Wang**
 <div class='paper-box'><div class='paper-box-image'><img src='images/otf-sfm.png' alt="sym" width="70%"></div>
 <div class='paper-box-text' markdown="1">
 
-[SfM on-the-fly: Get Better 3D from What You Capture](https://arxiv.org/pdf/2407.03939)
+SfM on-the-fly: Get Better 3D from What You Capture [Arxiv](https://arxiv.org/pdf/2407.03939)
 
 Zongqian Zhan,Yifei Yu, Rui Xia, Wentian Gan,Hong Xie, Giulio Perda, Luca Morelli, [Fabio Remondino](https://scholar.google.com/citations?user=s6R9byAAAAAJ&hl), **Xin Wang**
 
@@ -46,6 +46,16 @@ Zongqian Zhan,Yifei Yu, Rui Xia, Wentian Gan,Hong Xie, Giulio Perda, Luca Morell
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><img src='images/mega-nerf++.png' alt="sym" width="60%"></div>
+<div class='paper-box-text' markdown="1">
+
+Mega-NeRF++: An Improved Scalable NeRFs for High-resolution Photogrammetric Images [ISPRS TC I Mid-term Symposium, **Oral**](https://isprs-archives.copernicus.org/articles/XLVIII-1-2024/769/2024/isprs-archives-XLVIII-1-2024-769-2024.pdf)
+
+Yiwei Xu, Tengfei Wang, Zongqian Zhan, **Xin Wang**
+
+[**Project**](https://xywjohn.github.io/mega_nerf_p.github.io/) 
+</div>
+</div>
 
 # 🎖 Honors and Awards
 - *2015.10* National Scholarship (Top 1%). 
