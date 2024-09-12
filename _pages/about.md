@@ -96,7 +96,7 @@ Zhaoning Zhang, Tengfei Wang, Xin Wang, Zongqian Zhan
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/null.png' alt="sym" width="60%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/eff.png' alt="sym" width="60%"></div>
 <div class='paper-box-text' markdown="1">
 Efficient Feature Matching and Pose-graph Initialization for SfM 
 [[ISPRS TC I Mid-term Symposium, Poster, 2024](https://isprs-archives.copernicus.org/articles/XLVIII-1-2024/165/2024/isprs-archives-XLVIII-1-2024-165-2024.pdf)]
