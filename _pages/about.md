@@ -188,20 +188,20 @@ H. Zhan, Y.F. Yu, Y.W. Xu, Q.B. Hou, R., Xia, **X. Wang**, Y. Feng, Z.Q. Zhan, M
 ## Editor Services
 - Special issue 'Sino-German P & RS cooperation: Applications, Methods, Reviews' on the PFG-Journal (IF 2.1)
 ## Conference Reviewers
-  - European Conference on Computer Vision (ECCV), 2024
-  - European Conference on Computer Vision Workshop (ECCVW), 2024
-  - International Conference on Computer Vision (ICCV), 2023
-  - Asian Conference on Computer Vision (ACCV), 2022
-  - Computer Vision and Pattern Recognition (CVPR), 2020
+- European Conference on Computer Vision (ECCV), 2024
+- European Conference on Computer Vision Workshop (ECCVW), 2024
+- International Conference on Computer Vision (ICCV), 2023
+- Asian Conference on Computer Vision (ACCV), 2022
+- Computer Vision and Pattern Recognition (CVPR), 2020
 ## Journal Reviewers
-  - ISPRS Journal of Photogrammetry and Remote Sensing (ISPRS-J)
-  - The Photogrammetric Record
-  - Photogrammetric Engeering & Remote Sensing (PE&RS)
-  - the PFG-Journal
-  - IEEE Transactions on Geoscience and Remote Sensing (T-GRS)
-  - International Journal of Applied Earth Observations and Geoinformation (JAG)
-  - IEEE Geoscience and Remote Sensing Letters (GRSL)
-  - IEEE JOURNAL OF SELECTED TOPICS IN APPLIED EARTH OBSERVATIONS AND REMOTE SENSING (J-STARS)
-  - Expert Systems With Applications
+- ISPRS Journal of Photogrammetry and Remote Sensing (ISPRS-J)
+- The Photogrammetric Record
+- Photogrammetric Engeering & Remote Sensing (PE&RS)
+- the PFG-Journal
+- IEEE Transactions on Geoscience and Remote Sensing (T-GRS)
+- International Journal of Applied Earth Observations and Geoinformation (JAG)
+- IEEE Geoscience and Remote Sensing Letters (GRSL)
+- IEEE JOURNAL OF SELECTED TOPICS IN APPLIED EARTH OBSERVATIONS AND REMOTE SENSING (J-STARS)
+- Expert Systems With Applications
 
 # 💻 Demos
