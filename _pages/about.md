@@ -207,8 +207,6 @@ H. Zhan, Y.F. Yu, Y.W. Xu, Q.B. Hou, R., Xia, **X. Wang**, Y. Feng, Z.Q. Zhan, M
 
 # 💻 Demos
 
-<div class="container is-max-desktop">
-      <h2 class="title is-3" style="text-align: center;">Comparisons</h2>
       <!-- Dortmund Comparisons -->
       <div class="content">
         <h2 class="title is-4">Dortmund</h2>
@@ -229,4 +227,4 @@ H. Zhan, Y.F. Yu, Y.W. Xu, Q.B. Hou, R., Xia, **X. Wang**, Y. Feng, Z.Q. Zhan, M
           </div>
           <div class="cmp-slider"></div>
         </div>
-      </div>
+   
