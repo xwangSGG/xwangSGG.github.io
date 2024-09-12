@@ -207,6 +207,9 @@ H. Zhan, Y.F. Yu, Y.W. Xu, Q.B. Hou, R., Xia, **X. Wang**, Y. Feng, Z.Q. Zhan, M
 
 # 💻 Demos
 
+     <section class="section">
+    <div class="container is-max-desktop">
+      <h2 class="title is-3" style="text-align: center;">Comparisons</h2>
       <!-- Dortmund Comparisons -->
       <div class="content">
         <h2 class="title is-4">Dortmund</h2>
@@ -228,4 +231,67 @@ H. Zhan, Y.F. Yu, Y.W. Xu, Q.B. Hou, R., Xia, **X. Wang**, Y. Feng, Z.Q. Zhan, M
           <div class="cmp-slider"></div>
         </div>
       </div>
+
+      <br/>
+      <div class="image-container">
+        <h2 class="title is-4">More Results</h2>
+            <img style="width: 90%;" src="images/dortumud/all.jpg"/>
+            </object>
+      </div>
+        
+      <br/>
+      <div class="image-container">
+            <img style="width: 90%;" src="images/dortumud/table_surface.png"/>
+            </object>
+      </div>
+
+      <br/>
+      <div class="image-container">
+            <img style="width: 90%;" src="images/dortumud/table_render.png"/>
+            </object>
+      </div>
+
+      <!--  Zeche -->
+      <br/>
+      <div class="content">
+        <h2 class="title is-4">Zeche</h2>
+        <div class="button-container" id="btn3">
+            <button onclick="changeImages(event, 'cmp2','./images/zeche/GOF.png', './images/zeche/ours.png')" class="cmp-button cmp-btn-checked">View1</button>
+            <button onclick="changeImages(event, 'cmp2','./images/zeche/1_GOF.png', './images/zeche/1_ours.png')" class="cmp-button">View2</button>
+            <button onclick="changeImages(event, 'cmp2','./images/zeche/2_GOF.png', './images/zeche/2_ours.png')" class="cmp-button">View3</button>
+        </div>
+        <div class="cmp-container" id="cmp2">
+            <div class="bottom">
+                <img src="./images/zeche/GOF.png"/>
+            </div>
+            <div class="top">
+                <img src="./images/zeche/ours.png"/>
+            </div>
+            <div class="cmp-slider"></div>
+        </div>
+      </div>
+    
+      <br/>
+      <div class="image-container">
+        <h2 class="title is-4">More Results</h2>
+            <img style="width: 90%;" src="./images/zeche/all.jpg"/>
+            </object>
+      </div>
+
+      <br/>
+      <div class="image-container">
+        <img style="width: 90%;" src="./images/zeche/table_surface.png"/>
+            </object>
+      </div>
+
+      <br/>
+      <div class="image-container">
+            <img style="width: 90%;" src="./images/zeche/table_render.png"/>
+            </object>
+      </div>
+
+    </div>
+  <script src="./static/js/comparison.js"></script>
+  </div>
+</section>
    
