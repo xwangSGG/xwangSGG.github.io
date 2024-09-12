@@ -172,7 +172,8 @@ H. Zhan, Y.F. Yu, Y.W. Xu, Q.B. Hou, R., Xia, **X. Wang**, Y. Feng, Z.Q. Zhan, M
 </div>
 </div>
 
-## Paper before 2022
+## **Paper before 2022**
+
   - ● [Structural line feature selection for improving indoor visual slam](https://isprs-archives.copernicus.org/articles/XLIII-B4-2022/327/2022/isprs-archives-XLIII-B4-2022-327-2022.pdf), Rui Xia, Ke Jiang, **Xin Wang**, Zongqian Zhan, **ISPRS Congress 2022, Oral**
   - ● [An adaptive superpixels for vegetation detection on high resolution images based on MLP](https://isprs-archives.copernicus.org/articles/XLIII-B3-2022/187/2022/isprs-archives-XLIII-B3-2022-187-2022.pdf), Xiaofang Tang, Xin Huang, Zirou Xiong, **Xin Wang**, Zongqian Zhan, **ISPRS Congress 2022, Oral**
   - ● [AN EFFICIENT HIERARCHICAL IMAGE RETRIEVAL METHOD FOR LARGE SET OF IMAGES USING LEARNING-BASED GLOBAL AND LOCAL IMAGE FEATURES](https://isprs-archives.copernicus.org/articles/XLIII-B2-2022/649/2022/), Zhiwei Wang, Zongqian Zhan, Gaofeng Zhou, **Xin Wang**, **ISPRS Congress 2022, Posster**
@@ -193,14 +194,14 @@ H. Zhan, Y.F. Yu, Y.W. Xu, Q.B. Hou, R., Xia, **X. Wang**, Y. Feng, Z.Q. Zhan, M
 
 
 # 📖 **Academic Services**
-## Conference Reviewers
+## **Conference Reviewer**
 - ● European Conference on Computer Vision (ECCV), 2024
 - ● European Conference on Computer Vision Workshop (ECCVW), 2024
 - ● International Conference on Computer Vision (ICCV), 2023
 - ● Asian Conference on Computer Vision (ACCV), 2022
 - ● Computer Vision and Pattern Recognition (CVPR), 2020
 
-## Journal Reviewers
+## **Journal Reviewer**
 - ● ISPRS Journal of Photogrammetry and Remote Sensing (ISPRS-J)
 - ● The Photogrammetric Record
 - ● Photogrammetric Engeering & Remote Sensing (PE&RS)
@@ -211,7 +212,7 @@ H. Zhan, Y.F. Yu, Y.W. Xu, Q.B. Hou, R., Xia, **X. Wang**, Y. Feng, Z.Q. Zhan, M
 - ● IEEE JOURNAL OF SELECTED TOPICS IN APPLIED EARTH OBSERVATIONS AND REMOTE SENSING (J-STARS)
 - ● Expert Systems With Applications
 
-## Editor Services
+## **Editor Services**
 - ● Special issue 'Sino-German P & RS cooperation: Applications, Methods, Reviews' on the PFG-Journal (IF 2.1)
 
 
