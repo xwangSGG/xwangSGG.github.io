@@ -28,11 +28,11 @@ My research interests focus on Learning-based photogrammetry and its application
 <div class='paper-box-text' markdown="1">
 
 MGFs: Masked Gaussian Fields for Meshing Building based on Multi-View Images 
-[Arxiv, 2024](https://arxiv.org/pdf/2408.03060)
+[[Arxiv, 2024](https://arxiv.org/pdf/2408.03060)]
 
 Tengfei Wang, Zongqian Zhan, Rui Xia, Linxia Ji, **Xin Wang**
 
-[**Project**](https://tfwang-9527.github.io/MGFs/) 
+[[**Project**](https://tfwang-9527.github.io/MGFs/)]
 </div>
 </div>
 
@@ -40,7 +40,7 @@ Tengfei Wang, Zongqian Zhan, Rui Xia, Linxia Ji, **Xin Wang**
 <div class='paper-box-text' markdown="1">
 
 SfM on-the-fly: Get Better 3D from What You Capture 
-[Arxiv, 2024](https://arxiv.org/pdf/2407.03939)
+[[Arxiv, 2024](https://arxiv.org/pdf/2407.03939)]
 
 Zongqian Zhan,Yifei Yu, Rui Xia, Wentian Gan,Hong Xie, Giulio Perda, Luca Morelli, [Fabio Remondino](https://scholar.google.com/citations?user=s6R9byAAAAAJ&hl), **Xin Wang**
 
@@ -52,7 +52,7 @@ Zongqian Zhan,Yifei Yu, Rui Xia, Wentian Gan,Hong Xie, Giulio Perda, Luca Morell
 <div class='paper-box-text' markdown="1">
 
 Mega-NeRF++: An Improved Scalable NeRFs for High-resolution Photogrammetric Images 
-[ISPRS TC I Mid-term Symposium, **Oral**, 2024](https://isprs-archives.copernicus.org/articles/XLVIII-1-2024/769/2024/isprs-archives-XLVIII-1-2024-769-2024.pdf)
+[[ISPRS TC I Mid-term Symposium, **Oral**, 2024](https://isprs-archives.copernicus.org/articles/XLVIII-1-2024/769/2024/isprs-archives-XLVIII-1-2024-769-2024.pdf)]
 
 Yiwei Xu, Tengfei Wang, Zongqian Zhan, **Xin Wang**
 
@@ -64,7 +64,7 @@ Yiwei Xu, Tengfei Wang, Zongqian Zhan, **Xin Wang**
 <div class='paper-box-text' markdown="1">
 
 On-the-Fly SfM: What you capture is What you get 
-[ISPRS TC I Mid-term Symposium, **Oral**, 2024](https://isprs-annals.copernicus.org/articles/X-1-2024/297/2024/isprs-annals-X-1-2024-297-2024.pdf)
+[[ISPRS TC I Mid-term Symposium, **Oral**, 2024](https://isprs-annals.copernicus.org/articles/X-1-2024/297/2024/isprs-annals-X-1-2024-297-2024.pdf)]
 
 Zongqian Zhan, Rui Xia, Yifei Yu, Yibo Xu, **Xin Wang**
 
@@ -76,7 +76,7 @@ Zongqian Zhan, Rui Xia, Yifei Yu, Yibo Xu, **Xin Wang**
 <div class='paper-box-text' markdown="1">
 
 Deep-FG-DSM: Fine-Grained DSM for High-resolution UAV Imagery Based on Deep Implicit Occupancy Networks 
-[ISPRS TC I Mid-term Symposium, **Oral**, 2024](https://isprs-archives.copernicus.org/articles/XLVIII-1-2024/209/2024/isprs-archives-XLVIII-1-2024-209-2024.pdf)
+[[ISPRS TC I Mid-term Symposium, **Oral**, 2024](https://isprs-archives.copernicus.org/articles/XLVIII-1-2024/209/2024/isprs-archives-XLVIII-1-2024-209-2024.pdf)]
 
 Yongmao Hou, Haibo Zhang, **Xin Wang**, Zongqian Zhan
 
@@ -88,7 +88,7 @@ Yongmao Hou, Haibo Zhang, **Xin Wang**, Zongqian Zhan
 <div class='paper-box-text' markdown="1">
 
 Weakly Supervised Learning Method for Semantic Segmentation of Large-Scale 3D Point Cloud Based on Transformers 
-[ISPRS TC I Mid-term Symposium, Poster, 2024](https://isprs-archives.copernicus.org/articles/XLVIII-1-2024/887/2024/isprs-archives-XLVIII-1-2024-887-2024.pdf)
+[[ISPRS TC I Mid-term Symposium, Poster, 2024](https://isprs-archives.copernicus.org/articles/XLVIII-1-2024/887/2024/isprs-archives-XLVIII-1-2024-887-2024.pdf)]
 
 Zhaoning Zhang, Tengfei Wang, Xin Wang, Zongqian Zhan
 
@@ -96,8 +96,10 @@ Zhaoning Zhang, Tengfei Wang, Xin Wang, Zongqian Zhan
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><img src='images/' alt="sym" width="60%"></div>
+<div class='paper-box-text' markdown="1">
 Efficient Feature Matching and Pose-graph Initialization for SfM 
-[ISPRS TC I Mid-term Symposium, Poster, 2024](https://isprs-archives.copernicus.org/articles/XLVIII-1-2024/165/2024/isprs-archives-XLVIII-1-2024-165-2024.pdf)
+[[ISPRS TC I Mid-term Symposium, Poster, 2024](https://isprs-archives.copernicus.org/articles/XLVIII-1-2024/165/2024/isprs-archives-XLVIII-1-2024-165-2024.pdf)]
 
 WenTian Gan, ZongQian Zhan, Xin Wang
 
@@ -109,7 +111,7 @@ WenTian Gan, ZongQian Zhan, Xin Wang
 <div class='paper-box-text' markdown="1">
 
 SPLC: An attention-based end-to-end Superpixels and Land Cover Classification jointly learning architecture for HR remote sensing image 
-[IEEE Geoscience and Remote Sensing Letters, 2024](https://ieeexplore.ieee.org/abstract/document/10443625)
+[[IEEE Geoscience and Remote Sensing Letters, 2024](https://ieeexplore.ieee.org/abstract/document/10443625)]
 
 Zongqian Zhan, Xin Huang, **Xin Wang**
  
