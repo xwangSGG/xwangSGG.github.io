@@ -57,6 +57,17 @@ Yiwei Xu, Tengfei Wang, Zongqian Zhan, **Xin Wang**
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><img src='images/otfsfm.png' alt="sym" width="60%"></div>
+<div class='paper-box-text' markdown="1">
+
+On-the-Fly SfM: What you capture is What you get [ISPRS TC I Mid-term Symposium, **Oral**](https://isprs-annals.copernicus.org/articles/X-1-2024/297/2024/isprs-annals-X-1-2024-297-2024.pdf)
+
+Zongqian Zhan, Rui Xia, Yifei Yu, Yibo Xu, **Xin Wang**
+
+[**Project**](https://yifeiyu225.github.io/on-the-flySfMv1.github.io/) 
+</div>
+</div>
+
 # 🎖 Honors and Awards
 - *2015.10* National Scholarship (Top 1%). 
 - *2020.03* ASPRS ESRI Awards for Best Scientific Paper in GIS First Place.
