@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am now employed as a Distinguished Associate Researcher at the School of Geodesy and Geomatics, WuHan University (武汉大学测绘学院). I obtained my Doctor degree of Engineering from [Insitute of Photogrammetry and GeoInformation](https://www.ipi.uni-hannover.de/de/), Leibniz University Hannover, supervised and mentored by [Prof. Christian Heipke](https://www.ipi.uni-hannover.de/de/heipke). I was a research intern in Vexcel Imaging GmbH, Graz, Austria, working with Dr. Micheal Gruber. I obtained my Master's degree on Geodesy and Surveying Engneering from Wuhan University, supervised by [Prof. Zongqian Zhan](http://jszy.whu.edu.cn/zhanzongqian/zh_CN/index.htm).
+I am now employed as a Distinguished Associate Researcher at the School of Geodesy and Geomatics, WuHan University (武汉大学测绘学院). I obtained my Doctor degree of Engineering from [Insitute of Photogrammetry and GeoInformation](https://www.ipi.uni-hannover.de/de/), Leibniz University Hannover, supervised and mentored by [Prof. Christian Heipke](https://www.ipi.uni-hannover.de/de/heipke). I was a research intern in Vexcel Imaging GmbH, Graz, Austria, working with Dr. Michael Gruber. I obtained my Master's degree on Geodesy and Surveying Engneering from Wuhan University, supervised by [Prof. Zongqian Zhan](http://jszy.whu.edu.cn/zhanzongqian/zh_CN/index.htm).
 My research interests focus on Learning-based photogrammetry and its application, 3D reconstruction, and SLAM.
 
 **I am looking for highly self-motivated and talented Bachelor, Master and PhD students (co-supervised with Prof. Zongqian Zhan). Feel free to contact me via email If you're interested in collaborating.**
@@ -166,7 +166,15 @@ H. Zhan, Y.F. Yu, Y.W. Xu, Q.B. Hou, R., Xia, **X. Wang**, Y. Feng, Z.Q. Zhan, M
 </div>
 
 ## Paper before 2022
-  - [Structural line feature selection for improving indoor visual slam](https://isprs-archives.copernicus.org/articles/XLIII-B4-2022/327/2022/isprs-archives-XLIII-B4-2022-327-2022.pdf), Rui Xia, Ke Jiang, **Xin Wang**, Zongqian Zhan, **ISPRS Congress 2022**
+  - [Structural line feature selection for improving indoor visual slam](https://isprs-archives.copernicus.org/articles/XLIII-B4-2022/327/2022/isprs-archives-XLIII-B4-2022-327-2022.pdf), Rui Xia, Ke Jiang, **Xin Wang**, Zongqian Zhan, **ISPRS Congress 2022, Oral**
+  - [An adaptive superpixels for vegetation detection on high resolution images based on MLP](https://isprs-archives.copernicus.org/articles/XLIII-B3-2022/187/2022/isprs-archives-XLIII-B3-2022-187-2022.pdf), Xiaofang Tang, Xin Huang, Zirou Xiong, **Xin Wang**, Zongqian Zhan, **ISPRS Congress 2022, Oral**
+  - [AN EFFICIENT HIERARCHICAL IMAGE RETRIEVAL METHOD FOR LARGE SET OF IMAGES USING LEARNING-BASED GLOBAL AND LOCAL IMAGE FEATURES](https://isprs-archives.copernicus.org/articles/XLIII-B2-2022/649/2022/), Zhiwei Wang, Zongqian Zhan, Gaofeng Zhou, **Xin Wang**, **ISPRS Congress 2022, Posster**
+  - [POSITION-SENSITIVE ATTENTION BASED ON FULLY CONVOLUTIONAL NEURAL NETWORKS FOR LAND COVER CLASSIFICATION](https://isprs-annals.copernicus.org/articles/V-3-2022/281/2022/isprs-annals-V-3-2022-281-2022.pdf), Zirou Xiong, Zongqian Zhan, **Xin Wang**, **ISPRS Congress 2022, Oral**
+  - [A hybrid global structure from motion method for synchronously estimating global rotations and global translations](https://www.sciencedirect.com/science/article/pii/S0924271621000356), **Xin Wang**, Teng Xiao, Yoni Kasten, **ISPRS Jouranl of Photogrammetry and Remote Sensing, 2021**
+  - [An improved method of refining relative orientation in global structure from motion with a focus on repetitive structure and very short baselines](https://www.ingentaconnect.com/contentone/asprs/pers/2020/00000086/00000005/art00010?crawler=true&mimetype=application/pdf), **Xin Wang**, Christian Heipke, **Photogrammetric Engineering & Remote Sensing, 2020**
+  - [Robust Structure From Motion Based on Relative Rotations and Tie Points](https://www.ingentaconnect.com/contentone/asprs/pers/2019/00000085/00000005/art00012?crawler=true&mimetype=application/pdf), **Xin Wang**, Franz Rottensteiner, Christian Heipke, **Photogrammetric Engineering & Remote Sensing, 2019**
+  - [Robustifying relative orientations with respect to repetitive structures and very short baselines for global SfM](http://openaccess.thecvf.com/content_CVPRW_2019/papers/PCV/Wang_Robustifying_Relative_Orientations_With_Respect_to_Repetitive_Structures_and_Very_CVPRW_2019_paper.pdf), **Xin Wang**, Teng Xiao, Michael Gruber, Christian Heipke, **the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops, 2019**
+  - [Structure from motion for ordered and unordered image sets based on random kd forests and global pose estimation](https://www.sciencedirect.com/science/article/pii/S0924271618303058), **Xin Wang**,Franz Rottensteiner, Christian Heipke, **ISPRS Jouranl of Photogrammetry and Remote Sensing, 2019**
 
 # 🎖 Honors and Awards
 - *2015.10* National Scholarship (Top 1%). 
