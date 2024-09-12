@@ -19,12 +19,23 @@ My research interests focus on Learning-based photogrammetry and its application
 # 🔥 News
 - *2024.08*: &nbsp;🎉🎉 One Paper is accepted by PFG-Journal Photogrammetry, Remote Sensing and GeoInformation Science. 
 - *2024.08*: &nbsp;🎉🎉 One Paper is accepted by ECCV 2024, workshop of 50SfM.
-- *2024.07*: &nbsp;🎉🎉 A special Issue "Sino-German P&RS cooperation: Applications, Methods, Reviews" on the PFG-Journal is approved [Link](https://drive.google.com/file/d/1VjIsDuMMMnyVie0M6VdPvnKZqtkitHkC/view?usp=sharing). 
+- *2024.07*: &nbsp;🎉🎉 A special Issue "Sino-German P & RS cooperation: Applications, Methods, Reviews" on the PFG-Journal is approved [Link](https://drive.google.com/file/d/1VjIsDuMMMnyVie0M6VdPvnKZqtkitHkC/view?usp=sharing). 
 - *2024.05*: &nbsp;🎉🎉 Five Papaers are accepted by ISPRS TC I Mid-term Symposium, three of them are Oral presentation and granted by ISPRS TIF. 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/MGFS.png' alt="sym" width="70%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/MGFS.png' alt="sym" width="50%"></div>
+<div class='paper-box-text' markdown="1">
+
+[MGFs: Masked Gaussian Fields for Meshing Building based on Multi-View Images](https://arxiv.org/pdf/2408.03060)
+
+Tengfei Wang, Zongqian Zhan, Rui Xia, Linxia Ji, **Xin Wang**
+
+[**Project**](https://tfwang-9527.github.io/MGFs/) 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><img src='images/MGFS.png' alt="sym" width="50%"></div>
 <div class='paper-box-text' markdown="1">
 
 [MGFs: Masked Gaussian Fields for Meshing Building based on Multi-View Images](https://arxiv.org/pdf/2408.03060)
