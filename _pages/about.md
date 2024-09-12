@@ -118,6 +118,30 @@ Zongqian Zhan, Xin Huang, **Xin Wang**
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><img src='images/splc.png' alt="sym" width="60%"></div>
+<div class='paper-box-text' markdown="1">
+
+Multiscale Feature Reconstruction and Interclass Attention Weighting for Land Cover Classification 
+[[IEEE JOURNAL OF SELECTED TOPICS IN APPLIED EARTH OBSERVATIONS AND REMOTE SENSING, 2024](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10356620)]
+
+Zongqian Zhan, Zirou Xiong, Xin Huang, Chun Yang, Yi Liu, **Xin Wang**
+
+[**Code**](https://github.com/StraySparks/MSFR-and-ICAW) 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><img src='images/LOIP.png' alt="sym" width="60%"></div>
+<div class='paper-box-text' markdown="1">
+
+Learning visual overlapping image pairs for SfM via CNN fine-tuning with photogrammetric geometry information 
+[[International Journal of Applied Earth Observations and Geoinformation, 2023](https://www.sciencedirect.com/science/article/pii/S1569843222003508)]
+
+Qianbao Hou, Rui Xia, Jiahuan Zhang, Yu Feng, Zongqian Zhan, **Xin Wang**
+
+[**Code**](https://github.com/xwangSGG/LOIP) 
+</div>
+</div>
+
 # 🎖 Honors and Awards
 - *2015.10* National Scholarship (Top 1%). 
 - *2020.03* ASPRS ESRI Awards for Best Scientific Paper in GIS First Place.
