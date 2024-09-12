@@ -68,6 +68,18 @@ Zongqian Zhan, Rui Xia, Yifei Yu, Yibo Xu, **Xin Wang**
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><img src='images/deepdsm.png' alt="sym" width="60%"></div>
+<div class='paper-box-text' markdown="1">
+
+Deep-FG-DSM: Fine-Grained DSM for High-resolution UAV Imagery Based on Deep Implicit Occupancy Networks [ISPRS TC I Mid-term Symposium, **Oral**](https://isprs-archives.copernicus.org/articles/XLVIII-1-2024/209/2024/isprs-archives-XLVIII-1-2024-209-2024.pdf)
+
+Yongmao Hou, Haibo Zhang, **Xin Wang**, Zongqian Zhan
+
+[**Project**](https://github.com/3241674469/Deep-FG-DSM) 
+</div>
+</div>
+
+
 # 🎖 Honors and Awards
 - *2015.10* National Scholarship (Top 1%). 
 - *2020.03* ASPRS ESRI Awards for Best Scientific Paper in GIS First Place.
