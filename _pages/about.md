@@ -118,7 +118,7 @@ Zongqian Zhan, Xin Huang, **Xin Wang**
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/splc.png' alt="sym" width="60%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/xzr.png' alt="sym" width="60%"></div>
 <div class='paper-box-text' markdown="1">
 
 Multiscale Feature Reconstruction and Interclass Attention Weighting for Land Cover Classification 
