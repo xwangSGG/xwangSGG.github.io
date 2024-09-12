@@ -207,7 +207,7 @@ H. Zhan, Y.F. Yu, Y.W. Xu, Q.B. Hou, R., Xia, **X. Wang**, Y. Feng, Z.Q. Zhan, M
 
 # 💻 Demos
 
-     <section class="section">
+<section class="section">
     <div class="container is-max-desktop">
       <h2 class="title is-3" style="text-align: center;">Comparisons</h2>
       <!-- Dortmund Comparisons -->
