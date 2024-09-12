@@ -153,6 +153,17 @@ Yang Yue, **Xin Wang**, Zongqian Zhan
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><img src='images/bedoi.png' alt="sym" width="60%"></div>
+<div class='paper-box-text' markdown="1">
+
+BEDOI: BENCHMARKS FOR DETERMINING OVERLAPPING IMAGES WITH PHOTOGRAMMETRIC INFORMATION 
+[[ISPRS Geospatial Week 2023,**Oral**](https://isprs-archives.copernicus.org/articles/XLVIII-1-W2-2023/1685/2023/isprs-archives-XLVIII-1-W2-2023-1685-2023.pdf)]
+
+H. Zhan, Y.F. Yu, Y.W. Xu, Q.B. Hou, R., Xia, **X. Wang**, Y. Feng, Z.Q. Zhan, M.L. Li, M. Gruber, R. Hänsch, C. Heipke
+[**Code**](https://github.com/WHUHaoZhan/BeDOI) 
+</div>
+</div>
+
 # 🎖 Honors and Awards
 - *2015.10* National Scholarship (Top 1%). 
 - *2020.03* ASPRS ESRI Awards for Best Scientific Paper in GIS First Place.
