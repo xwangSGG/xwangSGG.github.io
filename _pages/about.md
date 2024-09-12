@@ -142,6 +142,17 @@ Qianbao Hou, Rui Xia, Jiahuan Zhang, Yu Feng, Zongqian Zhan, **Xin Wang**
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><img src='images/yy.png' alt="sym" width="60%"></div>
+<div class='paper-box-text' markdown="1">
+
+Single-point Least Square Matching Embedded Method for Improving Visual SLAM 
+[[IEEE SENSORS JOURNAL, 2023](https://ieeexplore.ieee.org/abstract/document/10132373)]
+
+Yang Yue, **Xin Wang**, Zongqian Zhan
+
+</div>
+</div>
+
 # 🎖 Honors and Awards
 - *2015.10* National Scholarship (Top 1%). 
 - *2020.03* ASPRS ESRI Awards for Best Scientific Paper in GIS First Place.
