@@ -23,10 +23,10 @@ My research interests focus on Learning-based photogrammetry and its application
 
 
 # 🔥 **News**
-- *2024.08*: &nbsp;🎉🎉 One Paper is accepted by PFG-Journal Photogrammetry, Remote Sensing and GeoInformation Science. 
-- *2024.08*: &nbsp;🎉🎉 One Paper is accepted by ECCV 2024, workshop of 50SfM.
-- *2024.07*: &nbsp;🎉🎉 A special Issue "Sino-German P & RS cooperation: Applications, Methods, Reviews" on the PFG-Journal is approved [Link](https://drive.google.com/file/d/1VjIsDuMMMnyVie0M6VdPvnKZqtkitHkC/view?usp=sharing). 
-- *2024.05*: &nbsp;🎉🎉 Five Papaers are accepted by ISPRS TC I Mid-term Symposium, three of them are Oral presentation and granted by ISPRS TIF.
+- ● *2024.08*: &nbsp;🎉🎉 One Paper is accepted by PFG-Journal Photogrammetry, Remote Sensing and GeoInformation Science. 
+- ● *2024.08*: &nbsp;🎉🎉 One Paper is accepted by ECCV 2024, workshop of 50SfM.
+- ● *2024.07*: &nbsp;🎉🎉 A special Issue "Sino-German P & RS cooperation: Applications, Methods, Reviews" on the PFG-Journal is approved [Link](https://drive.google.com/file/d/1VjIsDuMMMnyVie0M6VdPvnKZqtkitHkC/view?usp=sharing). 
+- ● *2024.05*: &nbsp;🎉🎉 Five Papaers are accepted by ISPRS TC I Mid-term Symposium, three of them are Oral presentation and granted by ISPRS TIF.
 
 
 # 📝 **Publications** 
@@ -173,46 +173,46 @@ H. Zhan, Y.F. Yu, Y.W. Xu, Q.B. Hou, R., Xia, **X. Wang**, Y. Feng, Z.Q. Zhan, M
 </div>
 
 ## Paper before 2022
-  - [Structural line feature selection for improving indoor visual slam](https://isprs-archives.copernicus.org/articles/XLIII-B4-2022/327/2022/isprs-archives-XLIII-B4-2022-327-2022.pdf), Rui Xia, Ke Jiang, **Xin Wang**, Zongqian Zhan, **ISPRS Congress 2022, Oral**
-  - [An adaptive superpixels for vegetation detection on high resolution images based on MLP](https://isprs-archives.copernicus.org/articles/XLIII-B3-2022/187/2022/isprs-archives-XLIII-B3-2022-187-2022.pdf), Xiaofang Tang, Xin Huang, Zirou Xiong, **Xin Wang**, Zongqian Zhan, **ISPRS Congress 2022, Oral**
-  - [AN EFFICIENT HIERARCHICAL IMAGE RETRIEVAL METHOD FOR LARGE SET OF IMAGES USING LEARNING-BASED GLOBAL AND LOCAL IMAGE FEATURES](https://isprs-archives.copernicus.org/articles/XLIII-B2-2022/649/2022/), Zhiwei Wang, Zongqian Zhan, Gaofeng Zhou, **Xin Wang**, **ISPRS Congress 2022, Posster**
-  - [POSITION-SENSITIVE ATTENTION BASED ON FULLY CONVOLUTIONAL NEURAL NETWORKS FOR LAND COVER CLASSIFICATION](https://isprs-annals.copernicus.org/articles/V-3-2022/281/2022/isprs-annals-V-3-2022-281-2022.pdf), Zirou Xiong, Zongqian Zhan, **Xin Wang**, **ISPRS Congress 2022, Oral**
-  - [A hybrid global structure from motion method for synchronously estimating global rotations and global translations](https://www.sciencedirect.com/science/article/pii/S0924271621000356), **Xin Wang**, Teng Xiao, Yoni Kasten, **ISPRS Jouranl of Photogrammetry and Remote Sensing, 2021**
-  - [An improved method of refining relative orientation in global structure from motion with a focus on repetitive structure and very short baselines](https://www.ingentaconnect.com/contentone/asprs/pers/2020/00000086/00000005/art00010?crawler=true&mimetype=application/pdf), **Xin Wang**, Christian Heipke, **Photogrammetric Engineering & Remote Sensing, 2020**
-  - [Robust Structure From Motion Based on Relative Rotations and Tie Points](https://www.ingentaconnect.com/contentone/asprs/pers/2019/00000085/00000005/art00012?crawler=true&mimetype=application/pdf), **Xin Wang**, Franz Rottensteiner, Christian Heipke, **Photogrammetric Engineering & Remote Sensing, 2019**
-  - [Robustifying relative orientations with respect to repetitive structures and very short baselines for global SfM](http://openaccess.thecvf.com/content_CVPRW_2019/papers/PCV/Wang_Robustifying_Relative_Orientations_With_Respect_to_Repetitive_Structures_and_Very_CVPRW_2019_paper.pdf), **Xin Wang**, Teng Xiao, Michael Gruber, Christian Heipke, **the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops, 2019**
-  - [Structure from motion for ordered and unordered image sets based on random kd forests and global pose estimation](https://www.sciencedirect.com/science/article/pii/S0924271618303058), **Xin Wang**,Franz Rottensteiner, Christian Heipke, **ISPRS Jouranl of Photogrammetry and Remote Sensing, 2019**
+  - ● [Structural line feature selection for improving indoor visual slam](https://isprs-archives.copernicus.org/articles/XLIII-B4-2022/327/2022/isprs-archives-XLIII-B4-2022-327-2022.pdf), Rui Xia, Ke Jiang, **Xin Wang**, Zongqian Zhan, **ISPRS Congress 2022, Oral**
+  - ● [An adaptive superpixels for vegetation detection on high resolution images based on MLP](https://isprs-archives.copernicus.org/articles/XLIII-B3-2022/187/2022/isprs-archives-XLIII-B3-2022-187-2022.pdf), Xiaofang Tang, Xin Huang, Zirou Xiong, **Xin Wang**, Zongqian Zhan, **ISPRS Congress 2022, Oral**
+  - ● [AN EFFICIENT HIERARCHICAL IMAGE RETRIEVAL METHOD FOR LARGE SET OF IMAGES USING LEARNING-BASED GLOBAL AND LOCAL IMAGE FEATURES](https://isprs-archives.copernicus.org/articles/XLIII-B2-2022/649/2022/), Zhiwei Wang, Zongqian Zhan, Gaofeng Zhou, **Xin Wang**, **ISPRS Congress 2022, Posster**
+  - ● [POSITION-SENSITIVE ATTENTION BASED ON FULLY CONVOLUTIONAL NEURAL NETWORKS FOR LAND COVER CLASSIFICATION](https://isprs-annals.copernicus.org/articles/V-3-2022/281/2022/isprs-annals-V-3-2022-281-2022.pdf), Zirou Xiong, Zongqian Zhan, **Xin Wang**, **ISPRS Congress 2022, Oral**
+  - ● [A hybrid global structure from motion method for synchronously estimating global rotations and global translations](https://www.sciencedirect.com/science/article/pii/S0924271621000356), **Xin Wang**, Teng Xiao, Yoni Kasten, **ISPRS Jouranl of Photogrammetry and Remote Sensing, 2021**
+  - ● [An improved method of refining relative orientation in global structure from motion with a focus on repetitive structure and very short baselines](https://www.ingentaconnect.com/contentone/asprs/pers/2020/00000086/00000005/art00010?crawler=true&mimetype=application/pdf), **Xin Wang**, Christian Heipke, **Photogrammetric Engineering & Remote Sensing, 2020**
+  - ● [Robust Structure From Motion Based on Relative Rotations and Tie Points](https://www.ingentaconnect.com/contentone/asprs/pers/2019/00000085/00000005/art00012?crawler=true&mimetype=application/pdf), **Xin Wang**, Franz Rottensteiner, Christian Heipke, **Photogrammetric Engineering & Remote Sensing, 2019**
+  - ● [Robustifying relative orientations with respect to repetitive structures and very short baselines for global SfM](http://openaccess.thecvf.com/content_CVPRW_2019/papers/PCV/Wang_Robustifying_Relative_Orientations_With_Respect_to_Repetitive_Structures_and_Very_CVPRW_2019_paper.pdf), **Xin Wang**, Teng Xiao, Michael Gruber, Christian Heipke, **the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops, 2019**
+  - ● [Structure from motion for ordered and unordered image sets based on random kd forests and global pose estimation](https://www.sciencedirect.com/science/article/pii/S0924271618303058), **Xin Wang**,Franz Rottensteiner, Christian Heipke, **ISPRS Jouranl of Photogrammetry and Remote Sensing, 2019**
 
 
 # 🎖 **Honors and Awards**
-- *2015.10* National Scholarship (Top 1%). 
-- *2020.03* ASPRS ESRI Awards for Best Scientific Paper in GIS First Place.
-- *2022.07* 湖北省“BR”计划.
-- *2022.10* 武汉市“英才”计划.
+- ● *2015.10* National Scholarship (Top 1%). 
+- ● *2020.03* ASPRS ESRI Awards for Best Scientific Paper in GIS First Place.
+- ● *2022.07* 湖北省“BR”计划.
+- ● *2022.10* 武汉市“英才”计划.
 
 
 
 # 📖 **Academic Services**
 ## Conference Reviewers
-- European Conference on Computer Vision (ECCV), 2024
-- European Conference on Computer Vision Workshop (ECCVW), 2024
-- International Conference on Computer Vision (ICCV), 2023
-- Asian Conference on Computer Vision (ACCV), 2022
-- Computer Vision and Pattern Recognition (CVPR), 2020
+- ● European Conference on Computer Vision (ECCV), 2024
+- ● European Conference on Computer Vision Workshop (ECCVW), 2024
+- ● International Conference on Computer Vision (ICCV), 2023
+- ● Asian Conference on Computer Vision (ACCV), 2022
+- ● Computer Vision and Pattern Recognition (CVPR), 2020
 
 ## Journal Reviewers
-- ISPRS Journal of Photogrammetry and Remote Sensing (ISPRS-J)
-- The Photogrammetric Record
-- Photogrammetric Engeering & Remote Sensing (PE&RS)
-- the PFG-Journal
-- IEEE Transactions on Geoscience and Remote Sensing (T-GRS)
-- International Journal of Applied Earth Observations and Geoinformation (JAG)
-- IEEE Geoscience and Remote Sensing Letters (GRSL)
-- IEEE JOURNAL OF SELECTED TOPICS IN APPLIED EARTH OBSERVATIONS AND REMOTE SENSING (J-STARS)
-- Expert Systems With Applications
+- ● ISPRS Journal of Photogrammetry and Remote Sensing (ISPRS-J)
+- ● The Photogrammetric Record
+- ● Photogrammetric Engeering & Remote Sensing (PE&RS)
+- ● the PFG-Journal
+- ● IEEE Transactions on Geoscience and Remote Sensing (T-GRS)
+- ● International Journal of Applied Earth Observations and Geoinformation (JAG)
+- ● IEEE Geoscience and Remote Sensing Letters (GRSL)
+- ● IEEE JOURNAL OF SELECTED TOPICS IN APPLIED EARTH OBSERVATIONS AND REMOTE SENSING (J-STARS)
+- ● Expert Systems With Applications
 
 ## Editor Services
-- Special issue 'Sino-German P & RS cooperation: Applications, Methods, Reviews' on the PFG-Journal (IF 2.1)
+- ● Special issue 'Sino-German P & RS cooperation: Applications, Methods, Reviews' on the PFG-Journal (IF 2.1)
 
 
 # 💻 **Demos**
