@@ -35,7 +35,6 @@ Tengfei Wang, Zongqian Zhan, Rui Xia, Linxia Ji, **Xin Wang**
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
 - *2015.10* National Scholarship (Top 1%). 
