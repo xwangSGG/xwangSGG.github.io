@@ -214,32 +214,19 @@ H. Zhan, Y.F. Yu, Y.W. Xu, Q.B. Hou, R., Xia, **X. Wang**, Y. Feng, Z.Q. Zhan, M
         <h2 class="title is-4">Dortmund</h2>
         <div class="button-container" id="btn1">
           <!-- Buttons to change comparison images -->
-          <button onclick="changeImages(event, 'cmp1','images/Dortmund/GOF.png', 'images/Dortmund/ours.png')" class="cmp-button cmp-btn-checked">View1</button>
-          <button onclick="changeImages(event, 'cmp1','images/Dortmund/1_GOF.png', 'images/Dortmund/1_ours.png')" class="cmp-button">View2</button>
-          <button onclick="changeImages(event, 'cmp1','images/Dortmund/2_GOF.png', 'images/Dortmund/2_ours.png')" class="cmp-button">View3</button>
+          <button onclick="changeImages(event, 'cmp1','images/dortumud/GOF.png', 'images/dortumud/ours.png')" class="cmp-button cmp-btn-checked">View1</button>
+          <button onclick="changeImages(event, 'cmp1','images/dortumud/1_GOF.png', 'images/dortumud/1_ours.png')" class="cmp-button">View2</button>
+          <button onclick="changeImages(event, 'cmp1','images/dortumud/2_GOF.png', 'images/dortumud/2_ours.png')" class="cmp-button">View3</button>
         </div>
   
         <!-- Comparison container -->
         <div class="cmp-container" id="cmp1">
           <div class="bottom">
-            <img src="images/Dortmund/GOF.png" alt="Ours">
+            <img src="images/dortumud/GOF.png" alt="Ours">
           </div>
           <div class="top">
-            <img src="images/Dortmund/ours.png" alt="GOF">
+            <img src="images/dortumud/ours.png" alt="GOF">
           </div>
           <div class="cmp-slider"></div>
         </div>
-      </div>
-
-      <br/>
-      <div class="image-container">
-        <h2 class="title is-4">More Results</h2>
-            <img style="width: 90%;" src="images/Dortmund/all.jpg"/>
-            </object>
-      </div>
-        
-      <br/>
-      <div class="image-container">
-            <img style="width: 90%;" src="images/Dortmund/table_surface.png"/>
-            </object>
       </div>
