@@ -168,7 +168,7 @@ BEDOI: BENCHMARKS FOR DETERMINING OVERLAPPING IMAGES WITH PHOTOGRAMMETRIC INFORM
 
 H. Zhan, Y.F. Yu, Y.W. Xu, Q.B. Hou, R., Xia, **X. Wang**, Y. Feng, Z.Q. Zhan, M.L. Li, M. Gruber, R. Hänsch, C. Heipke
 
-[**Code**](https://github.com/WHUHaoZhan/BeDOI) 
+[**Dataset**](https://github.com/WHUHaoZhan/BeDOI) 
 </div>
 </div>
 
@@ -205,7 +205,7 @@ H. Zhan, Y.F. Yu, Y.W. Xu, Q.B. Hou, R., Xia, **X. Wang**, Y. Feng, Z.Q. Zhan, M
 - ● ISPRS Journal of Photogrammetry and Remote Sensing (ISPRS-J)
 - ● The Photogrammetric Record
 - ● Photogrammetric Engeering & Remote Sensing (PE&RS)
-- ● the PFG-Journal
+- ● The PFG-Journal
 - ● IEEE Transactions on Geoscience and Remote Sensing (T-GRS)
 - ● International Journal of Applied Earth Observations and Geoinformation (JAG)
 - ● IEEE Geoscience and Remote Sensing Letters (GRSL)
