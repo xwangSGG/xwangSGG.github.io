@@ -55,6 +55,18 @@ Zongqian Zhan,Yifei Yu, Rui Xia, Wentian Gan,Hong Xie, Giulio Perda, Luca Morell
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><img src='images/retrieval baselinemethod.png' alt="sym" width="70%"></div>
+<div class='paper-box-text' markdown="1">
+
+Learning-Based Baseline Method for Efficient Determination of Overlapping Image Pairs and Its Application On both Offline and Online SfM
+[[PFG – Journal of Photogrammetry, Remote Sensing and Geoinformation Science , 2024](https://link.springer.com/article/10.1007/s41064-024-00312-z)]
+
+**Xin Wang**, Zhiwei Wang, Yiwei Xu, Zongqian Zhan*
+
+[**Code**](https://github.com/wzwcumt/LOIP-for-SfM)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><img src='images/mega-nerf++.png' alt="sym" width="60%"></div>
 <div class='paper-box-text' markdown="1">
 
