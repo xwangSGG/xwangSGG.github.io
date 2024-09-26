@@ -109,7 +109,7 @@ Yongmao Hou, Haibo Zhang, **Xin Wang**, Zongqian Zhan
 Weakly Supervised Learning Method for Semantic Segmentation of Large-Scale 3D Point Cloud Based on Transformers 
 [[ISPRS TC I Mid-term Symposium, Poster, 2024](https://isprs-archives.copernicus.org/articles/XLVIII-1-2024/887/2024/isprs-archives-XLVIII-1-2024-887-2024.pdf)]
 
-Zhaoning Zhang, Tengfei Wang, Xin Wang, Zongqian Zhan
+Zhaoning Zhang, Tengfei Wang, **Xin Wang**, Zongqian Zhan
 
 [**Project**](https://bigbigman233.github.io/pl_lcp.github.io/) 
 </div>
@@ -120,7 +120,7 @@ Zhaoning Zhang, Tengfei Wang, Xin Wang, Zongqian Zhan
 Efficient Feature Matching and Pose-graph Initialization for SfM 
 [[ISPRS TC I Mid-term Symposium, Poster, 2024](https://isprs-archives.copernicus.org/articles/XLVIII-1-2024/165/2024/isprs-archives-XLVIII-1-2024-165-2024.pdf)]
 
-WenTian Gan, ZongQian Zhan, Xin Wang
+WenTian Gan, ZongQian Zhan, **Xin Wang**
 
 [**Project**](https://sygant.github.io/) 
 </div>
