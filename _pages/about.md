@@ -23,6 +23,7 @@ My research interests focus on Learning-based photogrammetry and its application
 
 
 # 🔥 **News**
+- ● *2024.10*: &nbsp;🎉🎉 I was nominated as an AE by PFG-Journal Photogrammetry, Remote Sensing and GeoInformation Science [link](https://link.springer.com/journal/41064). 
 - ● *2024.08*: &nbsp;🎉🎉 One Paper is accepted by PFG-Journal Photogrammetry, Remote Sensing and GeoInformation Science. 
 - ● *2024.08*: &nbsp;🎉🎉 One Paper is accepted by ECCV 2024, workshop of 50SfM.
 - ● *2024.07*: &nbsp;🎉🎉 A special Issue "Sino-German P & RS cooperation: Applications, Methods, Reviews" on the PFG-Journal is approved [Link](https://drive.google.com/file/d/1VjIsDuMMMnyVie0M6VdPvnKZqtkitHkC/view?usp=sharing). 
