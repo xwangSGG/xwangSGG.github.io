@@ -208,6 +208,7 @@ H. Zhan, Y.F. Yu, Y.W. Xu, Q.B. Hou, R., Xia, **X. Wang**, Y. Feng, Z.Q. Zhan, M
 
 # 📖 **Academic Services**
 ## **Conference Reviewer**
+- ● Computer Vision and Pattern Recognition (CVPR), 2025
 - ● European Conference on Computer Vision (ECCV), 2024
 - ● European Conference on Computer Vision Workshop (ECCVW), 2024
 - ● International Conference on Computer Vision (ICCV), 2023
@@ -227,6 +228,7 @@ H. Zhan, Y.F. Yu, Y.W. Xu, Q.B. Hou, R., Xia, **X. Wang**, Y. Feng, Z.Q. Zhan, M
 
 ## **Editor Services**
 - ● Special issue 'Sino-German P & RS cooperation: Applications, Methods, Reviews' on the PFG-Journal (IF 2.1)
+- ● Editor of the PFG-Journal of Photogrammetry, Remote Sensing and GeoInformation Science (IF 2.1)
 
 
 # 💻 **Demos**
