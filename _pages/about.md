@@ -32,6 +32,18 @@ My research interests focus on Learning-based photogrammetry and its application
 
 # 📝 **Publications** 
 
+<div class='paper-box'><div class='paper-box-image'><img src='images/Tortho_whole.png' alt="sym" width="50%"></div>
+<div class='paper-box-text' markdown="1">
+
+Tortho-Gaussian: Splatting True Digital Orthophoto Maps 
+[[Arxiv, 2024](https://arxiv.org/pdf/2411.19594)]
+
+**Xin Wang**, Wendi Zhang, Xie Hong, Haibin Ai, Qiangqiang Yuan, Zongqian Zhan
+
+[[**Project**](https://gwen233666.github.io/Ortho-Gaussian/)]
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><img src='images/MGFS.png' alt="sym" width="50%"></div>
 <div class='paper-box-text' markdown="1">
 
@@ -203,6 +215,8 @@ H. Zhan, Y.F. Yu, Y.W. Xu, Q.B. Hou, R., Xia, **X. Wang**, Y. Feng, Z.Q. Zhan, M
 - ● *2020.03* ASPRS ESRI Awards for Best Scientific Paper in GIS First Place.
 - ● *2022.07* 湖北省“BR”计划.
 - ● *2022.10* 武汉市“英才”计划.
+- ● *2023.11* 测绘科学技术奖 一等奖.
+- ● *2024.11* 江苏省地理信息科技创新奖 一等奖.
 
 
 
