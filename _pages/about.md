@@ -36,6 +36,18 @@ My research interests focus on Learning-based photogrammetry and its application
 <div class='paper-box'><div class='paper-box-image'><img src='images/Tortho_whole.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
+Glossy-Gaussian: Adaptive Anisotropic Gaussians for View-Dependent Appearances 
+[[IEEE Singal Processing Letters, 2025](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10878500)]
+
+Wendi Zhang, Tengfei Wang, Zongqian Zhan, **Xin Wang**
+
+[[**Project and Code**](https://gwen233666.github.io/Glossy-gaussian/)]
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><img src='images/Tortho_whole.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
 Tortho-Gaussian: Splatting True Digital Orthophoto Maps 
 [[Arxiv, 2024](https://arxiv.org/pdf/2411.19594)]
 
