@@ -29,7 +29,6 @@ My research interests focus on Learning-based photogrammetry and its application
 - ● *2024.08*: &nbsp;🎉🎉 One Paper is accepted by PFG-Journal Photogrammetry, Remote Sensing and GeoInformation Science. 
 - ● *2024.08*: &nbsp;🎉🎉 One Paper is accepted by ECCV 2024, workshop of 50SfM.
 - ● *2024.07*: &nbsp;🎉🎉 A special Issue "Sino-German P & RS cooperation: Applications, Methods, Reviews" on the PFG-Journal is approved [Link](https://drive.google.com/file/d/1VjIsDuMMMnyVie0M6VdPvnKZqtkitHkC/view?usp=sharing). 
-- ● *2024.05*: &nbsp;🎉🎉 Five Papers are accepted by ISPRS TC I Mid-term Symposium, three of them are Oral presentation and granted by ISPRS TIF.
 
 
 # 📝 **Publications** 
@@ -164,43 +163,10 @@ Zongqian Zhan, Zirou Xiong, Xin Huang, Chun Yang, Yi Liu, **Xin Wang**
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/LOIP.png' alt="sym" width="60%"></div>
-<div class='paper-box-text' markdown="1">
-
-Learning visual overlapping image pairs for SfM via CNN fine-tuning with photogrammetric geometry information 
-[[International Journal of Applied Earth Observations and Geoinformation, 2023](https://www.sciencedirect.com/science/article/pii/S1569843222003508)]
-
-Qianbao Hou, Rui Xia, Jiahuan Zhang, Yu Feng, Zongqian Zhan, **Xin Wang**
-
-[**Code**](https://github.com/xwangSGG/LOIP) 
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><img src='images/yy.png' alt="sym" width="60%"></div>
-<div class='paper-box-text' markdown="1">
-
-Single-point Least Square Matching Embedded Method for Improving Visual SLAM 
-[[IEEE SENSORS JOURNAL, 2023](https://ieeexplore.ieee.org/abstract/document/10132373)]
-
-Yang Yue, **Xin Wang**, Zongqian Zhan
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><img src='images/bedoi.png' alt="sym" width="60%"></div>
-<div class='paper-box-text' markdown="1">
-
-BEDOI: BENCHMARKS FOR DETERMINING OVERLAPPING IMAGES WITH PHOTOGRAMMETRIC INFORMATION 
-[[ISPRS Geospatial Week 2023,**Oral**](https://isprs-archives.copernicus.org/articles/XLVIII-1-W2-2023/1685/2023/isprs-archives-XLVIII-1-W2-2023-1685-2023.pdf)]
-
-H. Zhan, Y.F. Yu, Y.W. Xu, Q.B. Hou, R., Xia, **X. Wang**, Y. Feng, Z.Q. Zhan, M.L. Li, M. Gruber, R. Hänsch, C. Heipke
-
-[**Dataset**](https://github.com/WHUHaoZhan/BeDOI) 
-</div>
-</div>
-
-## **Paper before 2022**
-
+## **Paper before 2023**
+    - ● [Learning visual overlapping image pairs for SfM via CNN fine-tuning with photogrammetric geometry information ](https://www.sciencedirect.com/science/article/pii/S1569843222003508), Qianbao Hou, Rui Xia, Jiahuan Zhang, Yu Feng, Zongqian Zhan, **Xin Wang**, **International Journal of Applied Earth Observations and Geoinformation, 2023**,[Link](https://github.com/xwangSGG/LOIP)
+    - ● [Single-point Least Square Matching Embedded Method for Improving Visual SLAM](https://ieeexplore.ieee.org/abstract/document/10132373), Yang Yue, **Xin Wang**, Zongqian Zhan, **IEEE SENSORS JOURNAL, 2023**
+    - ● [BEDOI: BENCHMARKS FOR DETERMINING OVERLAPPING IMAGES WITH PHOTOGRAMMETRIC INFORMATION ](https://isprs-archives.copernicus.org/articles/XLVIII-1-W2-2023/1685/2023/isprs-archives-XLVIII-1-W2-2023-1685-2023.pdf), H. Zhan, Y.F. Yu, Y.W. Xu, Q.B. Hou, R., Xia, **X. Wang**, Y. Feng, Z.Q. Zhan, M.L. Li, M. Gruber, R. Hänsch, C. Heipke, **ISPRS Congress 2023, [Oral](https://github.com/WHUHaoZhan/BeDOI)**
   - ● [Structural line feature selection for improving indoor visual slam](https://isprs-archives.copernicus.org/articles/XLIII-B4-2022/327/2022/isprs-archives-XLIII-B4-2022-327-2022.pdf), Rui Xia, Ke Jiang, **Xin Wang**, Zongqian Zhan, **ISPRS Congress 2022, [Oral](https://www.youtube.com/watch?v=MxGaBFvkxHQ)**
   - ● [An adaptive superpixels for vegetation detection on high resolution images based on MLP](https://isprs-archives.copernicus.org/articles/XLIII-B3-2022/187/2022/isprs-archives-XLIII-B3-2022-187-2022.pdf), Xiaofang Tang, Xin Huang, Zirou Xiong, **Xin Wang**, Zongqian Zhan, **ISPRS Congress 2022, [Oral](https://www.youtube.com/watch?v=D5M6Usz1qSE)**
   - ● [AN EFFICIENT HIERARCHICAL IMAGE RETRIEVAL METHOD FOR LARGE SET OF IMAGES USING LEARNING-BASED GLOBAL AND LOCAL IMAGE FEATURES](https://isprs-archives.copernicus.org/articles/XLIII-B2-2022/649/2022/), Zhiwei Wang, Zongqian Zhan, Gaofeng Zhou, **Xin Wang**, **ISPRS Congress 2022, [Poster](https://www.youtube.com/watch?v=Alfum-Z5dys)**
