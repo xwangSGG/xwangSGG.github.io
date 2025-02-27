@@ -33,7 +33,7 @@ My research interests focus on Learning-based photogrammetry and its application
 
 # 📝 **Publications** 
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/Tortho_whole.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/principle-glossy.jpg' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 Glossy-Gaussian: Adaptive Anisotropic Gaussians for View-Dependent Appearances 
