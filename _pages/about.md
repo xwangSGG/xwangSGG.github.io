@@ -23,6 +23,7 @@ My research interests focus on Learning-based photogrammetry and its application
 
 
 # 🔥 **News**
+- ● *2025.05*: &nbsp;🎉🎉 Four papers were accepted by the 13th ISPRS MMT conference as Orals, Congrats. to Xiang Wang, Zhe Shen, Yongmao Hou and Zhaoning Zhang. 
 - ● *2025.04*: &nbsp;🎉🎉 Our PG-SAG paper was accepted by the PFG Journal of Photogrammetry, Remote Sensing and GeoInformation Science. 
 - ● *2025.04*: &nbsp;🎉🎉 Our on-the-fly SfMv2 paper was accepted by ISPRS Journal of Photogrammetry and Remote Sensing. [link](https://www.sciencedirect.com/science/article/pii/S0924271625001388?dgcid=author). 
 - ● *2025.02*: &nbsp;🎉🎉 Our Glossy-Gaussian paper was accepted by IEEE Singal Processing Letters.[link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10878500). 
