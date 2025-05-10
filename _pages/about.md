@@ -56,7 +56,7 @@ Tortho-Gaussian: Splatting True Digital Orthophoto Maps
 
 **Xin Wang**, Wendi Zhang, Xie Hong, Haibin Ai, Qiangqiang Yuan, Zongqian Zhan
 
-[[**Project**](https://gwen233666.github.io/Ortho-Gaussian/)]
+[[**Project**](https://gwen233666.github.io/Ortho-Gaussian/)][[**Code**](https://github.com/xwangSGG/Tortho_Gaussian)]
 </div>
 </div>
 
