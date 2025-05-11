@@ -76,7 +76,7 @@ Tengfei Wang, Zongqian Zhan, Rui Xia, Linxia Ji, **Xin Wang**
 <div class='paper-box-text' markdown="1">
 
 SfM on-the-fly: Get Better 3D from What You Capture 
-[[Arxiv, 2024](https://arxiv.org/pdf/2407.03939)]
+[[ISPRS Journal, 2025](https://www.sciencedirect.com/science/article/abs/pii/S0924271625001388)]
 
 Zongqian Zhan,Yifei Yu, Rui Xia, Wentian Gan,Hong Xie, Giulio Perda, Luca Morelli, [Fabio Remondino](https://scholar.google.com/citations?user=s6R9byAAAAAJ&hl), **Xin Wang**
 
