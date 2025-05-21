@@ -36,6 +36,18 @@ My research interests focus on Learning-based photogrammetry and its application
 
 # 📝 **Publications** 
 
+<div class='paper-box'><div class='paper-box-image'><img src='images/Group_pipeline_ral.jpg' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+PG-SAG: Parallel Gaussian Splatting for Fine-Grained Large-Scale Urban Buildings Reconstruction via Semantic-Aware Grouping 
+[[PFG Journal of Photogrammetry, Remote Sensing and GeoInformation Science, 2025](https://link.springer.com/article/10.1007/s41064-025-00343-0)]
+
+Tengfei Wang,**Xin Wang**, Yongmao Hou, Yiwei Xu, Wendi Zhang, Zongqian Zhan, 
+
+[[**Code**](https://github.com/TFwang-9527/PG-SAG)]
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><img src='images/principle-glossy.jpg' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
