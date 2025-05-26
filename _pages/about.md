@@ -40,11 +40,11 @@ My research interests focus on Learning-based photogrammetry and its application
 <div class='paper-box-text' markdown="1">
 
 LVG-SfM: Learning-Based View-Graph Generation for Robust on-the-Fly SfM 
-[[ECCV workshop, 2024](https://link.springer.com/article/10.1007/s41064-025-00343-0)]
+[[ECCV workshop, 2024](https://doi.org/10.1007/978-3-031-91569-7_11)]
 
 Wentian Gan, Yifei Yu, Giulio Perda, Luca Morelli, Rui Xia, Zongqian Zhan, **Xin Wang**, and Fabio Remondio, 
 
-[[**Project**](https://doi.org/10.1007/978-3-031-91569-7_11)]
+[[**Project**](https://sygant.github.io/lvgsfm/)]
 </div>
 </div>
 
