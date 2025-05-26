@@ -36,7 +36,7 @@ My research interests focus on Learning-based photogrammetry and its application
 
 # 📝 **Publications** 
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/method_vl.jpg' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/method_v1.jpg' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 LVG-SfM: Learning-Based View-Graph Generation for Robust on-the-Fly SfM 
