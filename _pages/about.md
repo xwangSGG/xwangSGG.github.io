@@ -229,6 +229,7 @@ Zongqian Zhan, Zirou Xiong, Xin Huang, Chun Yang, Yi Liu, **Xin Wang**
 
 # 📖 **Academic Services**
 ## **Conference Reviewer**
+- ● IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025
 - ● Computer Vision and Pattern Recognition (CVPR), 2025
 - ● European Conference on Computer Vision (ECCV), 2024
 - ● European Conference on Computer Vision Workshop (ECCVW), 2024
