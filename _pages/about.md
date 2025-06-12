@@ -23,7 +23,7 @@ My research interests focus on Learning-based photogrammetry and its application
 
 
 # 🔥 **News**
-- ● *2025.06*: &nbsp;🎉🎉 One Paper is accepted by PE&RS, Congrats. to our undergraduate team member Liyuan Lou. 
+- ● *2025.06*: &nbsp;🎉🎉 One Paper was accepted by PE&RS, Congrats. to our undergraduate team member Liyuan Lou. 
 - ● *2025.05*: &nbsp;🎉🎉 Four papers were accepted by the 13th ISPRS MMT conference as Orals, Congrats. to Xiang Wang, Zhe Shen, Yongmao Hou and Zhaoning Zhang. 
 - ● *2025.04*: &nbsp;🎉🎉 Our PG-SAG paper was accepted by the PFG Journal of Photogrammetry, Remote Sensing and GeoInformation Science. [link](https://link.springer.com/article/10.1007/s41064-025-00343-0). 
 - ● *2025.04*: &nbsp;🎉🎉 Our on-the-fly SfMv2 paper was accepted by ISPRS Journal of Photogrammetry and Remote Sensing. [link](https://www.sciencedirect.com/science/article/pii/S0924271625001388?dgcid=author). 
