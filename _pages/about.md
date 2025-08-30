@@ -23,6 +23,7 @@ My research interests focus on Learning-based photogrammetry and its application
 
 
 # 🔥 **News**
+- ● *2025.08*: &nbsp;🎉🎉 Our Work of "MGFs" was accepted by Automation in Construction (IF = 11.5), Congrats. to Tengfei Wang.
 - ● *2025.07*: &nbsp;🎉🎉 Our On-the-fly SfM won **the Best Live Demo prize and the Best Poster prize** during the ChinaSI 2025, Shenzhen. Congrats. to Yifei Yu, Wentian Gan, Yiwei Xu, Liyuan Lou and Rui Xia.
 - ● *2025.06*: &nbsp;🎉🎉 One Paper was accepted by PE&RS, Congrats. to our undergraduate team member Liyuan Lou. 
 - ● *2025.05*: &nbsp;🎉🎉 Four papers were accepted by the 13th ISPRS MMT conference as Orals, Congrats. to Xiang Wang, Zhe Shen, Yongmao Hou and Zhaoning Zhang. 
