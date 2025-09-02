@@ -252,10 +252,12 @@ Zongqian Zhan, Zirou Xiong, Xin Huang, Chun Yang, Yi Liu, **Xin Wang**
 - ● Expert Systems With Applications
 
 ## **Editor Services**
-- ● Special issue 'Sino-German P & RS cooperation: Applications, Methods, Reviews' on the PFG-Journal (IF 2.1)
-- ● Editor of the PFG-Journal of Photogrammetry, Remote Sensing and GeoInformation Science (IF 2.1)
-- ● Editoral Board Memeber of Photogrammetric Engineering & Remote Sensing, PE&RS (IF 1.0)
-
+- ● Special issue 'Sino-German P & RS cooperation: Applications, Methods, Reviews' on the PFG-Journal (IF 3.3)
+- ● Editor of the PFG-Journal of Photogrammetry, Remote Sensing and GeoInformation Science (IF 3.3)
+- ● Editoral Board Memeber of Photogrammetric Engineering & Remote Sensing, PE&RS (IF 2.0)
+  
+## **Others**
+- ● 国际数字地球中国青年科学家工作委员会 委员
 
 # 💻 **Demos**
 <section class="section">
