@@ -95,7 +95,7 @@ MGFs: Masked Gaussian Fields for Meshing Building based on Multi-View Images
 
 Tengfei Wang, Zongqian Zhan, Rui Xia, Linxia Ji, **Xin Wang**
 
-[[**Project**](https://tfwang-9527.github.io/MGFs/)][**Code**](https://github.com/TFwang-9527/MGFs)
+[[**Project**](https://tfwang-9527.github.io/MGFs/)][[**Code**](https://github.com/TFwang-9527/MGFs)]
 </div>
 </div>
 
