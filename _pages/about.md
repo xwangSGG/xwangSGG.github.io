@@ -95,7 +95,7 @@ MGFs: Masked Gaussian Fields for Meshing Building based on Multi-View Images
 
 Tengfei Wang, Zongqian Zhan, Rui Xia, Linxia Ji, **Xin Wang**
 
-[[**Project**](https://tfwang-9527.github.io/MGFs/)]
+[[**Project**](https://tfwang-9527.github.io/MGFs/)][**Code**](https://github.com/TFwang-9527/MGFs)
 </div>
 </div>
 
@@ -107,7 +107,7 @@ SfM on-the-fly: Get Better 3D from What You Capture
 
 Zongqian Zhan,Yifei Yu, Rui Xia, Wentian Gan,Hong Xie, Giulio Perda, Luca Morelli, [Fabio Remondino](https://scholar.google.com/citations?user=s6R9byAAAAAJ&hl), **Xin Wang**
 
-[**Project**](https://yifeiyu225.github.io/on-the-flySfMv2.github.io/) [**Code**](https://github.com/RayShark0605/On_the_fly_SfM)
+[**Project**](https://yifeiyu225.github.io/on-the-flySfMv2.github.io/) [**Code**](https://github.com/sygant/onthefly/releases/)
 </div>
 </div>
 
