@@ -108,6 +108,18 @@ Tortho-Gaussian: Splatting True Digital Orthophoto Maps
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><img src='images/texture altas.jpg' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+An Efficient Irregular Texture Nesting Method via Hybrid NFP-SADE with Adaptive Container Resizing 
+[[PE&RS, 2025](https://persearlyaccess.s3.dualstack.us-east-1.amazonaws.com/25-00038R3_FT.pdf)]
+
+Liyuan Lou, Wanyun Li, Jingle Yu, **Xin Wang**, Zongqian Zhan
+
+[[**Code**](https://github.com/louliyuan/NFP-SADE-With-Adaptive-Container-Resizing)]
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><img src='images/retrieval baselinemethod.png' alt="sym" width="70%"></div>
 <div class='paper-box-text' markdown="1">
 
