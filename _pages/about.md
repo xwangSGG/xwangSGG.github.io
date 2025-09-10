@@ -25,7 +25,7 @@ My research interests focus on Learning-based photogrammetry and its application
 # 🔥 **News**
 - ● *2025.08*: &nbsp;🎉🎉 Our Work of "MGFs" was accepted by Automation in Construction (IF = 11.5), Congrats. to Tengfei Wang.[link](https://authors.elsevier.com/a/1lj263IhXN37fm). 
 - ● *2025.07*: &nbsp;🎉🎉 Our On-the-fly SfM won **the Best Live Demo prize and the Best Poster prize** during the ChinaSI 2025, Shenzhen. Congrats. to Yifei Yu, Wentian Gan, Yiwei Xu, Liyuan Lou and Rui Xia.
-- ● *2025.06*: &nbsp;🎉🎉 One Paper was accepted by PE&RS, Congrats. to our undergraduate team member Liyuan Lou. 
+- ● *2025.06*: &nbsp;🎉🎉 One Paper was accepted by PE&RS, Congrats. to our team member Liyuan Lou.[link](https://persearlyaccess.s3.dualstack.us-east-1.amazonaws.com/25-00038R3_FT.pdf).
 - ● *2025.05*: &nbsp;🎉🎉 Four papers were accepted by the 13th ISPRS MMT conference as Orals, Congrats. to Xiang Wang, Zhe Shen, Yongmao Hou and Zhaoning Zhang. 
 - ● *2025.04*: &nbsp;🎉🎉 Our PG-SAG paper was accepted by the PFG Journal of Photogrammetry, Remote Sensing and GeoInformation Science. [link](https://link.springer.com/article/10.1007/s41064-025-00343-0). 
 - ● *2025.04*: &nbsp;🎉🎉 Our on-the-fly SfMv2 paper was accepted by ISPRS Journal of Photogrammetry and Remote Sensing. [link](https://www.sciencedirect.com/science/article/pii/S0924271625001388?dgcid=author). 
@@ -35,6 +35,30 @@ My research interests focus on Learning-based photogrammetry and its application
 
 
 # 📝 **Publications** 
+
+<div class='paper-box'><div class='paper-box-image'><img src='images/MGFS.png' alt="sym" width="50%"></div>
+<div class='paper-box-text' markdown="1">
+
+MGFs: Masked Gaussian Fields for Meshing Building based on Multi-View Images 
+[[Automation in Construction, 2025](https://authors.elsevier.com/a/1lj263IhXN37fm)]
+
+Tengfei Wang, Zongqian Zhan, Rui Xia, Linxia Ji, **Xin Wang**
+
+[[**Project**](https://tfwang-9527.github.io/MGFs/)][[**Code**](https://github.com/TFwang-9527/MGFs)]
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><img src='images/otf-sfm.png' alt="sym" width="70%"></div>
+<div class='paper-box-text' markdown="1">
+
+SfM on-the-fly: Get Better 3D from What You Capture 
+[[ISPRS Journal, 2025](https://www.sciencedirect.com/science/article/abs/pii/S0924271625001388)]
+
+Zongqian Zhan,Yifei Yu, Rui Xia, Wentian Gan,Hong Xie, Giulio Perda, Luca Morelli, [Fabio Remondino](https://scholar.google.com/citations?user=s6R9byAAAAAJ&hl), **Xin Wang**
+
+[**Project**](https://yifeiyu225.github.io/on-the-flySfMv2.github.io/) [**Code**](https://github.com/sygant/onthefly/releases/)
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><img src='images/method_v1.jpg' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
@@ -81,30 +105,6 @@ Tortho-Gaussian: Splatting True Digital Orthophoto Maps
 **Xin Wang**, Wendi Zhang, Xie Hong, Haibin Ai, Qiangqiang Yuan, Zongqian Zhan
 
 [[**Project**](https://gwen233666.github.io/Ortho-Gaussian/)][[**Code**](https://github.com/xwangSGG/Tortho_Gaussian)]
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><img src='images/MGFS.png' alt="sym" width="50%"></div>
-<div class='paper-box-text' markdown="1">
-
-MGFs: Masked Gaussian Fields for Meshing Building based on Multi-View Images 
-[[Automation in Construction, 2025](https://authors.elsevier.com/a/1lj263IhXN37fm)]
-
-Tengfei Wang, Zongqian Zhan, Rui Xia, Linxia Ji, **Xin Wang**
-
-[[**Project**](https://tfwang-9527.github.io/MGFs/)][[**Code**](https://github.com/TFwang-9527/MGFs)]
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><img src='images/otf-sfm.png' alt="sym" width="70%"></div>
-<div class='paper-box-text' markdown="1">
-
-SfM on-the-fly: Get Better 3D from What You Capture 
-[[ISPRS Journal, 2025](https://www.sciencedirect.com/science/article/abs/pii/S0924271625001388)]
-
-Zongqian Zhan,Yifei Yu, Rui Xia, Wentian Gan,Hong Xie, Giulio Perda, Luca Morelli, [Fabio Remondino](https://scholar.google.com/citations?user=s6R9byAAAAAJ&hl), **Xin Wang**
-
-[**Project**](https://yifeiyu225.github.io/on-the-flySfMv2.github.io/) [**Code**](https://github.com/sygant/onthefly/releases/)
 </div>
 </div>
 
