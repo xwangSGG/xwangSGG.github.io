@@ -23,7 +23,7 @@ My research interests focus on Learning-based photogrammetry and its application
 
 
 # 🔥 **News**
-- ● *2025.08*: &nbsp;🎉🎉 Our Work of "On-the-fly GS" was accepted by RA-L, Congrats. to Yiwei Xu.[link](https://github.com/xywjohn/GS_On-The-Fly). 
+- ● *2025.10*: &nbsp;🎉🎉 Our Work of "On-the-fly GS" was accepted by RA-L, Congrats. to Yiwei Xu.[link](https://github.com/xywjohn/GS_On-The-Fly). 
 - ● *2025.08*: &nbsp;🎉🎉 Our Work of "MGFs" was accepted by Automation in Construction (IF = 11.5), Congrats. to Tengfei Wang.[link](https://authors.elsevier.com/a/1lj263IhXN37fm). 
 - ● *2025.07*: &nbsp;🎉🎉 Our On-the-fly SfM won **the Best Live Demo prize and the Best Poster prize** during the ChinaSI 2025, Shenzhen. Congrats. to Yifei Yu, Wentian Gan, Yiwei Xu, Liyuan Lou and Rui Xia.
 - ● *2025.06*: &nbsp;🎉🎉 One Paper was accepted by PE&RS, Congrats. to our team member Liyuan Lou.[link](https://persearlyaccess.s3.dualstack.us-east-1.amazonaws.com/25-00038R3_FT.pdf).
