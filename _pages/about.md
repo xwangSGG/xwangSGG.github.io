@@ -24,7 +24,7 @@ My research interests focus on Learning-based photogrammetry and its application
 
 # 🔥 **News**
 - ● *2025.11* : &nbsp;🎉🎉 Our accepted work of efficient irregular texture nesting accepted by PE&RS was recognized as **Editor's Choice** in the issue of Novenber. [link](https://mp.weixin.qq.com/s?__biz=MzkyNjI1MTE4MA==&mid=2247486679&idx=1&sn=9af7462f2b5042b999ed70f36d0ceab3&chksm=c37faad3810d89a0139b6cfe1a31ff6dd95d559771c61d51aa1b41f9b3349c42dd3d3bf18d2a&mpshare=1&scene=23&srcid=11031AY9MJ9WbVfLvfKtWs2c&sharer_shareinfo=a3c18bc4276c2e7cd43c5e191617b84d&sharer_shareinfo_first=64cac91a17703b0de0aa469c311fd9f5#rd). 
-- ● *2025.10* : &nbsp;🎉🎉 Our Work of "On-the-fly GS" was accepted by RA-L, Congrats. to Yiwei Xu.[link](https://github.com/xywjohn/GS_On-The-Fly). 
+- ● *2025.10* : &nbsp;🎉🎉 Our Work of "On-the-fly GS" was accepted by RA-L, Congrats. to Yiwei Xu.[link](https://ieeexplore.ieee.org/document/11248904). 
 - ● *2025.08* : &nbsp;🎉🎉 Our Work of "MGFs" was accepted by Automation in Construction (IF = 11.5), Congrats. to Tengfei Wang.[link](https://authors.elsevier.com/a/1lj263IhXN37fm). 
 - ● *2025.07* : &nbsp;🎉🎉 Our On-the-fly SfM won **the Best Live Demo prize and the Best Poster prize** during the ChinaSI 2025, Shenzhen. Congrats. to Yifei Yu, Wentian Gan, Yiwei Xu, Liyuan Lou and Rui Xia.
 - ● *2025.06* : &nbsp;🎉🎉 One Paper was accepted by PE&RS, Congrats. to our team member Liyuan Lou.[link](https://persearlyaccess.s3.dualstack.us-east-1.amazonaws.com/25-00038R3_FT.pdf).
