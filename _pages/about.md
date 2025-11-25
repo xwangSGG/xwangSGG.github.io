@@ -38,6 +38,18 @@ My research interests focus on Learning-based photogrammetry and its application
 
 # 📝 **Publications** 
 
+<div class='paper-box'><div class='paper-box-image'><img src='images/otf-gs.png' alt="sym" width="50%"></div>
+<div class='paper-box-text' markdown="1">
+
+Gaussian On-the-Fly Splatting: A Progressive Framework for Robust Near Real-Time 3DGS Optimization
+[[RA-L, 2025](https://ieeexplore.ieee.org/document/11248904)]
+
+Yiwei Xu, Yifei Yu, Wentian Gan, Tengfei Wang, Zongqian Zhan, Hao Cheng, **Xin Wang**
+
+[[**Project**](https://xywjohn.github.io/GS_On-the-Fly.github.io/)][[**Code**](https://github.com/xywjohn/GS_On-The-Fly)]
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><img src='images/MGFS.png' alt="sym" width="50%"></div>
 <div class='paper-box-text' markdown="1">
 
