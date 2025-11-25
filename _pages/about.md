@@ -38,7 +38,7 @@ My research interests focus on Learning-based photogrammetry and its application
 
 # 📝 **Publications** 
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/otf-gs.png' alt="sym" width="50%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/otf-gs.png' alt="sym" width="80%"></div>
 <div class='paper-box-text' markdown="1">
 
 Gaussian On-the-Fly Splatting: A Progressive Framework for Robust Near Real-Time 3DGS Optimization
