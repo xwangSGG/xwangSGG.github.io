@@ -23,6 +23,8 @@ My research interests focus on Learning-based photogrammetry and its application
 
 
 # 🔥 **News**
+- ● *2026.01* : &nbsp;🎉🎉 Our Work of "Tortho-Gaussian" was accepted by Geo-Spatial Information Science, Congrats. to Xiang Wang and Wendi Zhang.
+- ● *2026.01* : &nbsp;🎉🎉 Our Work of "GS-I3" was accepted by ICASSP 2026, Congrats. to Tengfei Wang.
 - ● *2025.11* : &nbsp;🎉🎉 Our accepted work of efficient irregular texture nesting accepted by PE&RS was recognized as **Editor's Choice** in the issue of Novenber. [link](https://mp.weixin.qq.com/s?__biz=MzkyNjI1MTE4MA==&mid=2247486679&idx=1&sn=9af7462f2b5042b999ed70f36d0ceab3&chksm=c37faad3810d89a0139b6cfe1a31ff6dd95d559771c61d51aa1b41f9b3349c42dd3d3bf18d2a&mpshare=1&scene=23&srcid=11031AY9MJ9WbVfLvfKtWs2c&sharer_shareinfo=a3c18bc4276c2e7cd43c5e191617b84d&sharer_shareinfo_first=64cac91a17703b0de0aa469c311fd9f5#rd). 
 - ● *2025.10* : &nbsp;🎉🎉 Our Work of "On-the-fly GS" was accepted by RA-L, Congrats. to Yiwei Xu.[link](https://ieeexplore.ieee.org/document/11248904). 
 - ● *2025.08* : &nbsp;🎉🎉 Our Work of "MGFs" was accepted by Automation in Construction (IF = 11.5), Congrats. to Tengfei Wang.[link](https://www.sciencedirect.com/science/article/pii/S0926580525005424). 
@@ -32,8 +34,8 @@ My research interests focus on Learning-based photogrammetry and its application
 - ● *2025.04* : &nbsp;🎉🎉 Our PG-SAG paper was accepted by the PFG Journal of Photogrammetry, Remote Sensing and GeoInformation Science. [link](https://link.springer.com/article/10.1007/s41064-025-00343-0). 
 - ● *2025.04* : &nbsp;🎉🎉 Our on-the-fly SfMv2 paper was accepted by ISPRS Journal of Photogrammetry and Remote Sensing. [link](https://www.sciencedirect.com/science/article/pii/S0924271625001388?dgcid=author). 
 - ● *2025.02* : &nbsp;🎉🎉 Our Glossy-Gaussian paper was accepted by IEEE Singal Processing Letters.[link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10878500). 
-- ● *2024.12* : &nbsp;🎉🎉 I joined the Editoral Board Member (EBM) team of ASPRS Photogrammetric Engineering & Remote Sensing (PE&RS)[link](https://my.asprs.org/PERS/PERS/About/Editorial-Board.aspx?hkey=963ea6ac-35b5-494d-ba45-d3d325588c26). 
-- ● *2024.10* : &nbsp;🎉🎉 I was nominated as an AE by PFG-Journal Photogrammetry, Remote Sensing and GeoInformation Science [link](https://link.springer.com/journal/41064). 
+<!-- - ● *2024.12* : &nbsp;🎉🎉 I joined the Editoral Board Member (EBM) team of ASPRS Photogrammetric Engineering & Remote Sensing (PE&RS)[link](https://my.asprs.org/PERS/PERS/About/Editorial-Board.aspx?hkey=963ea6ac-35b5-494d-ba45-d3d325588c26). -->
+<!-- - ● *2024.10* : &nbsp;🎉🎉 I was nominated as an AE by PFG-Journal Photogrammetry, Remote Sensing and GeoInformation Science [link](https://link.springer.com/journal/41064). -->
 
 
 # 📝 **Publications** 
