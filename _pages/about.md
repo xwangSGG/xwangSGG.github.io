@@ -23,6 +23,7 @@ My research interests focus on Learning-based photogrammetry and its application
 
 
 # 🔥 **News**
+- ● *2026.02* : &nbsp;🎉🎉 I was recognized as Best Reviewer Award by PE&RS.
 - ● *2026.01* : &nbsp;🎉🎉 Two papers were accepted by the ISPRS Congress 2026, Congrats. to Yifei Yu, Hanzi Li and Tengfei Wang.
 - ● *2026.01* : &nbsp;🎉🎉 Our Work of "Tortho-Gaussian" was accepted by Geo-Spatial Information Science, Congrats. to Xiang Wang and Wendi Zhang.
 - ● *2026.01* : &nbsp;🎉🎉 Our Work of "GS-I3" was accepted by ICASSP 2026, Congrats. to Tengfei Wang.
