@@ -43,6 +43,18 @@ My research interests focus on Learning-based photogrammetry and its application
 
 # 📝 **Publications** 
 
+<div class='paper-box'><div class='paper-box-image'><img src='images/Tortho_whole.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+Tortho-Gaussian: Splatting True Digital Orthophoto Maps 
+[[GSIS, 2026](https://www.tandfonline.com/doi/full/10.1080/10095020.2026.2622788)]
+
+**Xin Wang**, Wendi Zhang, Xie Hong, Haibin Ai, Qiangqiang Yuan, Zongqian Zhan
+
+[[**Project**](https://gwen233666.github.io/Ortho-Gaussian/)][[**Code**](https://github.com/xwangSGG/Tortho_Gaussian)]
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><img src='images/otf-gs.png' alt="sym" width="80%"></div>
 <div class='paper-box-text' markdown="1">
 
@@ -112,18 +124,6 @@ Glossy-Gaussian: Adaptive Anisotropic Gaussians for View-Dependent Appearances
 Wendi Zhang, Tengfei Wang, Zongqian Zhan, **Xin Wang**
 
 [[**Project and Code**](https://gwen233666.github.io/Glossy-gaussian/)]
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><img src='images/Tortho_whole.png' alt="sym" width="100%"></div>
-<div class='paper-box-text' markdown="1">
-
-Tortho-Gaussian: Splatting True Digital Orthophoto Maps 
-[[Arxiv, 2024](https://arxiv.org/pdf/2411.19594)]
-
-**Xin Wang**, Wendi Zhang, Xie Hong, Haibin Ai, Qiangqiang Yuan, Zongqian Zhan
-
-[[**Project**](https://gwen233666.github.io/Ortho-Gaussian/)][[**Code**](https://github.com/xwangSGG/Tortho_Gaussian)]
 </div>
 </div>
 
