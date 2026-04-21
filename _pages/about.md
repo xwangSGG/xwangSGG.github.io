@@ -23,6 +23,7 @@ My research interests focus on Learning-based photogrammetry and its application
 
 
 # 🔥 **News**
+- ● *2026.04* : &nbsp;🎉🎉 Our On-the-fly feedback SfM was accepted by IEEE Geoscience and Remote Sensing Magazine (IF=16.4), Congrats. to Liyuan Lou and Wanyun Li!
 - ● *2026.03* : &nbsp;🎉🎉 Our PG-SAG was recognized as Hansa-Luftbild PFG Best Paper Award 2025, Congrats. to Tengfei Wang.
 - ● *2026.02* : &nbsp;🎉🎉 I was recognized as Best Reviewer Award by PE&RS.
 - ● *2026.01* : &nbsp;🎉🎉 Two papers were accepted by the ISPRS Congress 2026, Congrats. to Yifei Yu, Hanzi Li and Tengfei Wang.
