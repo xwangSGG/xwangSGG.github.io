@@ -27,8 +27,8 @@ My research interests focus on Learning-based photogrammetry and its application
 - ● *2026.03* : &nbsp;🎉🎉 Our PG-SAG was recognized as Hansa-Luftbild PFG Best Paper Award 2025, Congrats. to Tengfei Wang.
 - ● *2026.02* : &nbsp;🎉🎉 I was recognized as Best Reviewer Award by PE&RS.
 - ● *2026.01* : &nbsp;🎉🎉 Two papers were accepted by the ISPRS Congress 2026, Congrats. to Yifei Yu, Hanzi Li and Tengfei Wang.
-- ● *2026.01* : &nbsp;🎉🎉 Our Work of "Tortho-Gaussian" was accepted by Geo-Spatial Information Science, Congrats. to Xiang Wang and Wendi Zhang.
-- ● *2026.01* : &nbsp;🎉🎉 Our Work of "GS-I3" was accepted by ICASSP 2026, Congrats. to Tengfei Wang.
+- ● *2026.01* : &nbsp;🎉🎉 Our Work of "Tortho-Gaussian" was accepted by Geo-Spatial Information Science, Congrats. to Xiang Wang and Wendi Zhang.[link](https://www.tandfonline.com/doi/full/10.1080/10095020.2026.2622788).
+- ● *2026.01* : &nbsp;🎉🎉 Our Work of "GS-I3" was accepted by ICASSP 2026, Congrats. to Tengfei Wang.[link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11464314).
 - ● *2025.11* : &nbsp;🎉🎉 Our accepted work of efficient irregular texture nesting accepted by PE&RS was recognized as **Editor's Choice** in the issue of Novenber. [link](https://mp.weixin.qq.com/s?__biz=MzkyNjI1MTE4MA==&mid=2247486679&idx=1&sn=9af7462f2b5042b999ed70f36d0ceab3&chksm=c37faad3810d89a0139b6cfe1a31ff6dd95d559771c61d51aa1b41f9b3349c42dd3d3bf18d2a&mpshare=1&scene=23&srcid=11031AY9MJ9WbVfLvfKtWs2c&sharer_shareinfo=a3c18bc4276c2e7cd43c5e191617b84d&sharer_shareinfo_first=64cac91a17703b0de0aa469c311fd9f5#rd). 
 - ● *2025.10* : &nbsp;🎉🎉 Our Work of "On-the-fly GS" was accepted by RA-L, Congrats. to Yiwei Xu.[link](https://ieeexplore.ieee.org/document/11248904). 
 - ● *2025.08* : &nbsp;🎉🎉 Our Work of "MGFs" was accepted by Automation in Construction (IF = 11.5), Congrats. to Tengfei Wang.[link](https://www.sciencedirect.com/science/article/pii/S0926580525005424). 
