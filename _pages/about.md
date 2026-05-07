@@ -271,14 +271,13 @@ Learning-Based Baseline Method for Efficient Determination of Overlapping Image 
 
 # 📖 **Academic Services**
 ## **Conference Reviewer**
-- ● ICRA, 2026
-- ● IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025
-- ● Computer Vision and Pattern Recognition (CVPR), 2025
+- ● ICRA, 2025 2026
+- ● IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025 2026
+- ● Computer Vision and Pattern Recognition (CVPR), 2020 2025
 - ● European Conference on Computer Vision (ECCV), 2024
 - ● European Conference on Computer Vision Workshop (ECCVW), 2024
 - ● International Conference on Computer Vision (ICCV), 2023
 - ● Asian Conference on Computer Vision (ACCV), 2022
-- ● Computer Vision and Pattern Recognition (CVPR), 2020
 
 ## **Journal Reviewer**
 - ● ISPRS Journal of Photogrammetry and Remote Sensing (ISPRS-J)
