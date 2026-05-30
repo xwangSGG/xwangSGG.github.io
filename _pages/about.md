@@ -48,7 +48,7 @@ My research interests focus on Learning-based photogrammetry and its application
 <div class='paper-box-text' markdown="1">
 
 GS-I^3: Gaussian Splatting for Surface Reconstruction from Illumination-Inconsistent Images
-[[ICASSP (oral), 2026](https://www.tandfonline.com/doi/full/10.1080/10095020.2026.2622788)]
+[[ICASSP (oral), 2026](https://ieeexplore.ieee.org/abstract/document/11464314/)]
 
 Tengfei Wang, **Xin Wang**, Yongmao Hou, Zhaoning Zhang, Yiwei Xu, Zongqian Zhan
 
