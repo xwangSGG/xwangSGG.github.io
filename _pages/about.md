@@ -47,6 +47,18 @@ My research interests focus on Learning-based photogrammetry and its application
 <div class='paper-box'><div class='paper-box-image'><img src='images/Tortho_whole.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
+GS-I^3: Gaussian Splatting for Surface Reconstruction from Illumination-Inconsistent Images
+[[ICASSP (oral), 2026](https://www.tandfonline.com/doi/full/10.1080/10095020.2026.2622788)]
+
+Tengfei Wang, **Xin Wang**, Yongmao Hou, Zhaoning Zhang, Yiwei Xu, Zongqian Zhan
+
+[[**Project**](https://tfwang-9527.github.io/GS-3I/)][[**Code**](https://github.com/TFwang-9527/GS-3I)]
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><img src='images/Tortho_whole.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
 Tortho-Gaussian: Splatting True Digital Orthophoto Maps 
 [[GSIS, 2026](https://www.tandfonline.com/doi/full/10.1080/10095020.2026.2622788)]
 
