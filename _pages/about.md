@@ -44,7 +44,7 @@ My research interests focus on Learning-based photogrammetry and its application
 
 # 📝 **Publications** 
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/Tortho_whole.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/gs-I3-overflow.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 GS-I^3: Gaussian Splatting for Surface Reconstruction from Illumination-Inconsistent Images
