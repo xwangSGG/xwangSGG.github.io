@@ -23,6 +23,7 @@ My research interests focus on Learning-based photogrammetry and its application
 
 
 # 🔥 **News**
+- ● *2026.07* : &nbsp;🎉🎉 Our A-TDOM was accepted by International Journal of Computer Vision (IF=10.3), Congrats. to Yiwei Xu and Xiang Wang!
 - ● *2026.04* : &nbsp;🎉🎉 Our On-the-fly feedback SfM was accepted by IEEE Geoscience and Remote Sensing Magazine (IF=16.4), Congrats. to Liyuan Lou and Wanyun Li!
 - ● *2026.03* : &nbsp;🎉🎉 Our PG-SAG was recognized as Hansa-Luftbild PFG Best Paper Award 2025, Congrats. to Tengfei Wang.
 - ● *2026.02* : &nbsp;🎉🎉 I was recognized as Best Reviewer Award by PE&RS.
