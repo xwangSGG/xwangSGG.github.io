@@ -23,6 +23,7 @@ My research interests focus on Learning-based photogrammetry and its application
 
 
 # 🔥 **News**
+- ● *2026.07* : &nbsp;🎉🎉 Our review paper "Recent Advances in Image-Based 3D Reconstruction: A Photogrammetric Perspective on Conventional and Learning-Based Techniques" was accepted by PFG-Journal!
 - ● *2026.07* : &nbsp;🎉🎉 Our LSGS-Loc was accepted by RA-L, Congrats. to Xiang Zhang and Tengfei Wang!
 - ● *2026.07* : &nbsp;🎉🎉 Our A-TDOM was accepted by International Journal of Computer Vision (IF=10.3), Congrats. to Yiwei Xu and Xiang Wang!
 - ● *2026.04* : &nbsp;🎉🎉 Our On-the-fly feedback SfM was accepted by IEEE Geoscience and Remote Sensing Magazine (IF=16.4), Congrats. to Liyuan Lou and Wanyun Li!
