@@ -47,7 +47,7 @@ My research interests focus on Learning-based photogrammetry and its application
 
 # 📝 **Publications** 
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/ATDOM.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/ATD0M.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 A-TDOM: Active TDOM via On-the-Fly 3DGS
