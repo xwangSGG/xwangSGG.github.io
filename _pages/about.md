@@ -47,15 +47,38 @@ My research interests focus on Learning-based photogrammetry and its application
 
 # 📝 **Publications** 
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/gs-I3-overflow.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/ATDOM.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-GS-I^3: Gaussian Splatting for Surface Reconstruction from Illumination-Inconsistent Images
-[[ICASSP (oral), 2026](https://ieeexplore.ieee.org/abstract/document/11464314/)]
+A-TDOM: Active TDOM via On-the-Fly 3DGS
+[[IJCV, 2026](https://link.springer.com/article/10.1007/s11263-026-02966-1)]
 
-Tengfei Wang, **Xin Wang**, Yongmao Hou, Zhaoning Zhang, Yiwei Xu, Zongqian Zhan
+Yiwei Xu, Xiang Wang, Yifei Yu, Wentian Gan, Luca Morelli, Giulio Perda, **Xin Wang**, Zongqian Zhan, Fabio Remondino 
 
-[[**Project**](https://tfwang-9527.github.io/GS-3I/)][[**Code**](https://github.com/TFwang-9527/GS-3I)]
+[[**Code**](https://github.com/xywjohn/A-TDOM)]
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><img src='images/OTF-FEEDBADCKworkflow.jpg' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+On-the-Fly Feedback Structure From Motion: Online explore-and-exploit unmanned aerial vehicle photogrammetry with incremental mesh quality-aware indicator and predictive path planning
+[[GRSM, 2026](https://ieeexplore.ieee.org/abstract/document/11653029)]
+
+Liyuan Lou, Wanyun Li, Wentian Gan, Yifei Yu, Tengfei Wang, **Xin Wang**, Zongqian Zhan
+
+[[**Project**](https://louliyuan.github.io/OntheflyFeedbackSfM_homepage/)][[**Code**](https://github.com/IRIS-LAB-whu/OntheflySfMFeedback)]
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><img src='images/PFG-REVIEW.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+Recent Advances in Image-Based 3D Reconstruction: a Photogrammetric Perspective on Conventional and Learning-Based Techniques
+[[PFG-Journal, 2026](https://link.springer.com/article/10.1007/s41064-026-00412-y)]
+
+**Xin Wang**, Tengfei Wang, Markus Hillemann, Yifei Yu, Zhe Shen, Zongqian Zhan, Rongjun Qin, Markus Ulrich
+
 </div>
 </div>
 
