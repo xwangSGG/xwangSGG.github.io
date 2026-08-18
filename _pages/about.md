@@ -47,6 +47,17 @@ My research interests focus on Learning-based photogrammetry and its application
 
 # 📝 **Publications** 
 
+<div class='paper-box'><div class='paper-box-image'><img src='images/isprs-congress-2026-1.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+GS-I^3: Gaussian Splatting for Surface Reconstruction from Illumination-Inconsistent Images
+[[ISPRS Congress, 2026](https://isprs-archives.copernicus.org/articles/XLIX-B2-2026/1345/2026/isprs-archives-XLIX-B2-2026-1345-2026.html)]
+
+Chunyu Dou, Yifei Yu, **Xin Wang**, Zongqian Zhan
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><img src='images/gs-I3-overflow.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
