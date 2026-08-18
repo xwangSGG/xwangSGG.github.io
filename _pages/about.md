@@ -47,6 +47,42 @@ My research interests focus on Learning-based photogrammetry and its application
 
 # 📝 **Publications** 
 
+<div class='paper-box'><div class='paper-box-image'><img src='images/gs-I3-overflow.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+GS-I^3: Gaussian Splatting for Surface Reconstruction from Illumination-Inconsistent Images
+[[ICASSP (oral), 2026](https://ieeexplore.ieee.org/abstract/document/11464314/)]
+
+Tengfei Wang, **Xin Wang**, Yongmao Hou, Zhaoning Zhang, Yiwei Xu, Zongqian Zhan
+
+[[**Project**](https://tfwang-9527.github.io/GS-3I/)][[**Code**](https://github.com/TFwang-9527/GS-3I)]
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><img src='images/lsgs-loc.jpg' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+LSGS-Loc: Towards Robust 3DGS-Based Visual Localization for Large-Scale UAV Scenarios
+[[RA-L, 2026](https://ieeexplore.ieee.org/document/11652953)]
+
+Xiang Zhang, Tengfei Wang, Fang Xu, **Xin Wang**, Zongqian Zhan
+
+[[**Project**](https://github.com/xzhang-z/LSGS-Loc)]
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><img src='images/SF-RECON.jpg' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+SF-Recon: Simplification-Free Lightweight Building Reconstruction via 3D Gaussian Splatting
+[[ISPRE Congress (oral), 2026](https://isprs-annals.copernicus.org/articles/XI-2-2026/303/2026/isprs-annals-XI-2-2026-303-2026.html)]
+
+Zihan Li, Tengfei Wang, Wentian Gan, Hao Zhan, **Xin Wang**, Zongqian Zhan
+
+[[**Project**](https://github.com/lzh282140127-cell/SF-Recon)]
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><img src='images/isprs-congress-2026-1.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
