@@ -23,6 +23,7 @@ My research interests focus on Learning-based photogrammetry and its application
 
 
 # 🔥 **News**
+- ● *2026.08* : &nbsp;🎉🎉 Our RAT-CVGL was accepted by GRSL, Congrats. to Guanbo Wang and Xulei Shi.
 - ● *2026.07* : &nbsp;🎉🎉 Our review paper "Recent Advances in Image-Based 3D Reconstruction: A Photogrammetric Perspective on Conventional and Learning-Based Techniques" was accepted by PFG-Journal.[link](https://link.springer.com/article/10.1007/s41064-026-00412-y).
 - ● *2026.07* : &nbsp;🎉🎉 Our LSGS-Loc was accepted by RA-L, Congrats. to Xiang Zhang and Tengfei Wang.[link](https://ieeexplore.ieee.org/document/11652953).
 - ● *2026.07* : &nbsp;🎉🎉 Our A-TDOM was accepted by International Journal of Computer Vision (IF=10.3), Congrats. to Yiwei Xu and Xiang Wang.[link](https://link.springer.com/article/10.1007/s11263-026-02966-1).
