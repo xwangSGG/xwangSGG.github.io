@@ -23,7 +23,7 @@ My research interests focus on Learning-based photogrammetry and its application
 
 
 # 🔥 **News**
-- ● *2026.11* : &nbsp;🎉🎉 Our SeaIceGS was accepted by Jstars. Congrats. to Quanjian Ji and Tengfei Wang.
+- ● *2026.11* : &nbsp;🎉🎉 Our SeaIceGS was accepted by JSTARS. Congrats. to Quanjian Ji and Tengfei Wang.
 - ● *2026.08* : &nbsp;🎉🎉 Our On-the-Fly3R won **the Best Live Demo (Third Prize)** during the ChinaSI 2026, Wuhan. Congrats. to Zhe Shen, Liyuan Lou, Yifei Yu, Xiang Wang, Chunyu Dou.
 - ● *2026.08* : &nbsp;🎉🎉 Our RAT-CVGL was accepted by GRSL, Congrats. to Guanbo Wang and Xulei Shi.[link](https://ieeexplore.ieee.org/document/11666963).
 - ● *2026.07* : &nbsp;🎉🎉 Our review paper "Recent Advances in Image-Based 3D Reconstruction: A Photogrammetric Perspective on Conventional and Learning-Based Techniques" was accepted by PFG-Journal.[link](https://link.springer.com/article/10.1007/s41064-026-00412-y).
